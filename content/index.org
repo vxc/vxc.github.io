@@ -1,10 +1,8 @@
-#+title: Org Mode Example Site
+#+title: Integrating Org mode website with github pages
 
-* Overview
+* Getting started
 
-This is an *example* of a _website_ written with [[https://orgmode.org][Org Mode]]!
-
-Here is a link to my [[./Emacs.org][Emacs configuration]].
+1. Create an account in github.
 
 * Links
 
