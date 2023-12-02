@@ -1,0 +1,239 @@
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -7px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+#content{
+    margin-left: 10% ;
+    margin-right: 10% ;
+    margin-top: 160px;
+}
+.title{
+    margin-top: 2%;
+    margin-bottom: 2% ;
+}
+
+h2{
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+
+h3{
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+
+h4{
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+
+body{
+    background: #efece6;
+    font-family: 'Open Sans';
+}
+
+/* Top Navigation bar */
+
+.header-nav{
+    min-height: 75px;
+    background: #fff;
+    color: #404040;
+}
+.header-nav .navbar-nav > li > a{
+    color: #3799FF;
+}
+.nav-top{
+    margin-top: 15px;
+}
+
+/* Bottom Navigation Bar */
+
+.bottom-nav{
+    border-top: solid 5px #202020;
+    margin-top:75px;
+    background:#404040;
+    max-height: 56px;
+}
+.c-dropdown-menu{
+    display: none;
+}
+.bottom-nav .navbar-nav > li > a{
+    color: #CCC;
+    font-size: 17px;
+}
+
+.bottom-nav .navbar-nav > li > a:hover, .bottom-nav .navbar-nav > li > a:focus{
+    color: #FFF;
+    
+}
+
+
+.bottom-nav .navbar-nav > .open > a:hover, .bottom-nav .navbar-nav > .open > a:focus{
+    background:transparent;
+    color: #FFF;
+}
+
+.navbar-nav > li > .c-dropdown-menu{
+    border-radius : 0;
+    box-shadow: none;
+    background: #333;
+    padding: 0;
+    border: none;
+    position: absolute;
+    min-width: 250px;
+    list-style: none;
+}
+.bottom-nav .c-dropdown-menu > li{
+    border-top: solid 1px #666;
+    padding: 10px 30px;
+}
+.bottom-nav .c-dropdown-menu > li:hover{
+    background: #3799FA;
+    border-top: solid 2px #3C5BFF;
+}
+
+.bottom-nav .c-dropdown-menu > li > a, .bottom-nav .c-dropdown-menu > li > a:hover, .bottom-nav .c-dropdown-menu > li > a:hover{
+    color: green;
+    font-size: 18px;
+    background: none;
+    text-decoration: none;
+}
+footer{
+    margin-top: 30px;
+    background: #fff;
+    padding: 20px 40px;
+}
+
+.footer-links{
+    list-style: none;
+    padding-top: 10px;
+    padding-left: 0;
+}
+.footer-links > li > a{
+    font-size: 14px;
+}
+
+.footer-links > li{
+    padding: 5px 0 5px 0;
+}
+.footer-links > li > a:hover, .footer-links > li > a:focus{
+    text-decoration: none;
+    color: #3799FF;
+}
+.footer-heading{
+    padding-bottom: 10px;
+    color: #666;
+    font-size: 16px;
+    font-weight: 700;
+    border-bottom: solid 1px #ccc;
+}
+
+p, li{
+    font-size: 17px;
+}
+
+li.gitLink{
+    float: right ;
+}
+
+.breadcrumb > li + li.gitLink::before{
+    content: "";
+}
+
+.breadcrumb > li + li::before{
+    content: ">";
+}
+
+
+/*New Css Styling*/
+.dropdown-submenu {
+    position: relative;
+    /* the following style will give the sold bottom line border to the submen*/
+    border-bottom: 1px solid rgba(150,150,150,0.15);
+
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 0 5px 5px;
+    border-left-color: #ccc;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    border-radius: 6px 0 6px 6px;
+}
+
+.dropdown-menu{
+    background:#333 !important;
+    color:#fff;
+}
+
+
+
+a, li{
+    font-color:#000 !important;
+}
+
+.dropdown-menu > li > a{
+    color:#fff;
+    padding: 6px 20px !important;
+}
+
+
+.bottom-nav .navbar-nav > li > a:hover, .bottom-nav .navbar-nav > li > a:focus{
+    background:green;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+    color: #D5C9C9;
+    text-decoration: none;
+    background-color: transparent;
+
+}
+
+.dropdown-menu > li > a{
+
+    border-bottom: 1px solid rgba(150,150,150,0.15);
+}
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover{
+    background:green !important;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -7px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
