@@ -19,7 +19,7 @@
 * Publications
 #+include: "./publications/publications.org"
 * Jobs
-
+#+include: "./jobs/job.org"
 * Contact-us
 
 
