@@ -9,7 +9,7 @@
 
 
 * Home
-
+#+include: "./home/home.org"
 * Students
 
 * Research
