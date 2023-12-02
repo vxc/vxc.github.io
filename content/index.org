@@ -15,7 +15,7 @@
 * Research
 #+include: "./research/research.org"
 * Teaching
-
+#+include: "./teaching/teaching.org"
 * Publications
 
 * Jobs
