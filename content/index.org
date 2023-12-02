@@ -13,7 +13,7 @@
 * Students
 #+include: "./students/students.org"
 * Research
-
+#+include: "./research/research.org"
 * Teaching
 
 * Publications
