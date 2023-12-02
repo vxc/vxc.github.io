@@ -1,0 +1,22 @@
+#+SETUPFILE: ../org-templates/level-1.org
+
+
+* Welcome to Prof.Venkatesh lab
+
+Software Engineering Research Center(SERC) has a eminent faculty with
+vast teaching and research experience in and outside India. Some of
+the key focus areas:
+
+    1) Empirical Research and Process Improvement
+    2) Requirements Engineering and Quality Attributes
+    3) Complex System Development
+    4) Cloud Computing
+    5) Usability Engineering
+
+
+SERC has close collaboration with industry providing software services
+to large organizations, R&D labs of various organizations and other
+academic institutes (India and abroad). Organizations that SERC is
+working are diverse, stratified across banking and finance,
+government, equipment manufacture, ISVs building products for software
+industry, etc.

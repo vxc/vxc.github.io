@@ -1,0 +1,151 @@
+#+SETUPFILE: ../org-templates/level-1.org
+
+* Current students
+
+** PhD
+*** Photo 
+   #+caption: Sai Gollapudi (PhD)
+   #+name: fig:layout
+   [[./students/images/sai.jpg]]
+
+*** Web Accessibility.
+
+*** Photo 
+   #+caption: Lalit Mohan
+   #+name: fig:layout
+   [[./students/images/lalit-mohan.jpg]]
+
+** Part time PhD students
+*** Photo 
+   #+caption: Padmalata Nistala
+   #+name: fig:layout
+   [[./students/images/padma-nistala.jpg]]
+
+*** Photo 
+   #+caption: Sai Anirudh Karre
+   #+name: fig:layout
+   [[./students/images/sai-anirudh.jpg]]
+
+*** Photo 
+   #+caption:  Naveen N. Kulkarni
+   #+name: fig:layout
+   [[./students/images/naveen-kulakarni.jpg]]
+
+** Graudated Students
+*** Photo 
+   #+caption: Sridhar Chimalakonda
+   #+name: fig:layout
+   [[./students/images/shridar-chimalakonda.jpg]]
+
+*** Photo 
+   #+caption: Kirti Garg
+   #+name: fig:layout
+   [[./students/images/kirti-garg.jpg]]
+
+*** Photo 
+   #+caption: Anand Kumar 
+   #+name: fig:layout
+   # [[./students/images/kirti-garg.jpg]]
+
+** MS by research
+*** Photo 
+   #+caption: Soumya Maddala
+   #+name: fig:layout
+   [[./students/images/soumya.jpg]]
+
+*** Model based generation of software.
+
+** Part Time
+*** Photo 
+   #+caption:  Neeraj Mathur
+   #+name: fig:layout
+   [[./students/images/neeraj.jpg]]
+
+
+** MS Dual Degree 
+*** Photo 
+   #+caption: Akaash Agarwall
+   #+name: fig:layout
+   [[./students/images/akash.jpg]]
+
+*** Verification of web policies.
+
+*** Photo 
+   #+caption: Adhish Singla
+   #+name: fig:layout
+   [[./students/images/adhish.jpg]]
+   
+*** Distributed Model Checking. Supported by Hitachi India. (Principal
+    advisor: Prof. Suresh Purini).
+
+
+
+** BTech/Dual Degree
+*** Photo 
+   #+caption: Arjun Sanjeev 
+   #+name: fig:layout
+   [[./students/images/arjun.jpg]]
+
+*** Formal Modelling of Design Patterns. Co-advisor: Prof. K
+    Viswanath.
+
+    
+*** Photo 
+   #+caption: Siddharth Bhat  
+   #+name: fig:layout
+   [[./students/images/siddharth.jpg]]
+
+*** Programming Languages and Formal Methods
+
+
+** BTech Students
+*** Photo 
+   #+caption:  Sourav Sarangi 
+   #+name: fig:layout
+   [[./students/images/sourav.jpg]]
+
+*** Photo 
+   #+caption:  Soujanya Ponnapalli 
+   #+name: fig:layout
+   [[./students/images/soujanya-ponnapalli.jpg]]
+
+*** Photo 
+   #+caption: Kushal Singh 
+   #+name: fig:layout
+   [[./students/images/kushal-singh.jpg]]
+
+*** Photo 
+   #+caption: Animesh Pathak 
+   #+name: fig:layout
+   [[./students/images/animesh.jpg]]
+
+* Past research students
+
+** Krishna Chaitanya (MS by research, May 2016)
+        Thesis title: Mitigating Web-borne Security Threats by
+        Enhancing Browser Security Policies Current affiliation:
+        Microsoft Hyderabad
+
+** Ankur Goel (MS by research, Apr 2016)
+        Thesis title: Specification and Modelling of Workflow
+        Management Systems with State Based Access Control Current
+        Affiliation: Startup in Hyderabad
+
+** Himanshu Zade (MS by research, Apr 2015)
+        Thesis title: Evolution of Mental Models of Interactive
+        Machines: A Formal Approach Current affiliation: Microsoft
+        Research Bangalore
+
+** Santosh Aravind Adimoolam (MS by research Apr 2014)
+        Thesis title: Automata based abstraction of interval
+        assumptions and bounded input linear systems for verification
+        and controller synthesis Co-advisor: Prof. K Viswanath
+        Financial Support: Siemens R&D India.  Current affiliation:
+        VERIMAG, France.
+
+** Deepti Aggarwal (MS by research, Nov 2013)
+
+        Thesis title: Exploring Crowdsourcing to PersonalizeWeb Experiences
+        Co-advisor: Prof. Vasudeva Varma
+        Current affiliation: Univ of Melbourne PhD programme
+

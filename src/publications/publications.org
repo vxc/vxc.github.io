@@ -1,0 +1,342 @@
+#+AUTHOR: VLEAD
+#+DATE: [2018-02-06 Tue]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+
+[58] Sai Gollapudi, Lalit Mohan Sangavarapu, Sridhar Chimalakonda, YR
+    Reddy, and Venkatesh Choppella. A lightweight approach for
+    adequate completeness of ontologies. under review, May 2016.[ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Gollapudi-et-al-iceccs-2016][bib]] ]
+    
+
+[57] Venkatesh Choppella, Garima Ahuja, and Aditi Mavalankar. How does
+    a program run? A visual model based on annotating abstract syntax
+    trees. In Proc. Fourth International Conference on Learning and
+    Teaching in Computing and Engineering (LATiCE 2016). IEEE Explore
+    (to appear), April 2016.[ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-et-al-2016][bib]] ]
+
+[56] Adhish Singla, Krishnaji Desai, Suresh Purini, and Venkatesh
+    Choppella. Distributed safety property verification using vertex
+    centric programming model. In Proc. 15th International Symposium
+    of Parallel and Distributed Computing, page ??? IEEE, 2016. [
+    [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Singla-et-al-2016][bib]] | [[http://pascal.iiit.ac.in/~choppell/research/papers/2016-ispdc.pdf][.pdf]] ]
+
+[55] Aditi Mavalankar, Tejaswinee Kelkar, and Venkatesh
+    Choppella. Generation of quizzes and solutions based on
+    ontologies - a case for a music problem generator. In 2015 IEEE
+    Seventh International Conference on Technology for Education
+    (T4E), pages 73-76. IEEE, December 2015. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#mavalankar-et-al-t4e-2015][bib]] | [[http://ieeexplore.ieee.org/document/7395621/][DOI]] | [[http://pascal.iiit.ac.in/~choppell/research/papers/2015-t4e.pdf][.pdf]] ]
+
+[54] Garima Ahuja, Anubha Gupta, Harsh Wardhan, and Venkatesh
+    Choppella. Assessing the impact of virtual labs: a case study with
+    the lab on advanced vlsi. In Proceedings of the 15 IEEE Conference
+    on Advances in Learning Technologies, ICALT 2015, pages
+    290-292. IEEE, July 2015. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Ahuja-et-al-icalt-2015][bib]] | [[http://ieeexplore.ieee.org/document/7265328/][DOI]] | [[http://pascal.iiit.ac.in/~choppell/research/papers/2015-icalt-garima.pdf][.pdf]] ]
+
+[53] Tejaswinee Kelkar, Anon Ray, and Venkatesh Choppella. Sangeetkosh:
+    An open web platform for hindustani music education. In
+    Proceedings of the 15 IEEE Conference on Advances in Learning
+    Technologies, ICALT 2015, pages 5-9. IEEE, July 2015. [  [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Kelkar-et-al-icalt-2015][bib]] ]
+
+[52] Venkatesh Choppella and Amulya Pulijala. Visual modeling of
+    javascript. In Modeling Symposium, 8th India Software Engineering
+    Conference, February 2015. Poster. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-Pulijala-ModSym-2015][bib]] ]
+
+[51] Jatin Agarwal, Utkarsh Rastogi, Prateek Pandey, Nurendra
+    Choudhary, Venkatesh Choppella, and Raghu Reddy. Large scale web
+    page optimization of virtual labs. In Proceedings of the IEEE
+    International Conference on Technology for Education (T4E2014),
+    pages 146-147. IEEE, December 2014. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#2014-t4e-agarwal-et-al][bib]] ]
+
+[50] Himanshu Zade, Santosh Adimoolam, Sai Gollapudi, Anind Dey, and
+    Venkatesh Choppella. Edit distance modulo bisimulation: A
+    quantitative measure to study evolution of user models. In
+    Proceedings of the 32nd Annual ACM Conference on Human Factors in
+    Computing Systems, CHI'14, pages 1757-1766. ACM, April 2014. [
+    [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#zade-et-al-chi-2014][bib]] | [[https://dl.acm.org/citation.cfm?doid=2556288.2557191][http]] ]
+[49] Nurendra Choudhary, Venkatesh Choppella, Raghu Reddy, and Thirumal
+    Ravula. Large scale web page optimization of virtual labs. In
+    Proceedings of the IEEE International Conference on Technology for
+    Education (T4E2014), pages 29-31. IEEE, 2014. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#2014-t4e-choudhary-et-al][bib]] ]
+
+[48] Krishna Chaitanya Telikicherla and Venkatesh Choppella. Enabling
+    the development of safer mashups for open data. In Proceedings of
+    the 1st International Workshop on Inclusive Web Programming -
+    Programming on the Web with Open Data for Societal Applications,
+    IWP 2014, pages 8-15, New York, NY, USA, 2014. ACM. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Telikicherla-2014-EDS-2593761-2593764][bib]] | [[https://dl.acm.org/citation.cfm?doid=2593761.2593764][DOI]] |
+    [[https://dl.acm.org/citation.cfm?doid=2593761.2593764][http]] ]
+
+[47] KrishnaChaitanya Telikicherla, Venkatesh Choppella, and
+    Bruhadeshwar Bezawada. Corp: A browser policy to mitigate web
+    infiltration attacks. In Atul Prakash and Rudrapatna Shyamasundar,
+    editors, Information Systems Security, volume 8880 of Lecture
+    Notes in Computer Science, pages 277-297. Springer International
+    Publishing, 2014. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Telikicherla-Choppella-Bezawada-ICISS-2014][bib]] | [[https://link.springer.com/chapter/10.1007%2F978-3-319-13841-1_16][DOI]] | [[https://link.springer.com/chapter/10.1007%2F978-3-319-13841-1_16][http]] ]
+[46] Gollapudi VRJ Sai Prasad, T. B. Dinesh, and Venkatesh
+    Choppella. Overcoming the new accessibility challenges using the
+    sweet framework. In Proceedings of the 11th Web for All
+    Conference, W4A '14, pages 22:1-22:4, New York, NY,
+    USA, 2014. ACM. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Prasad-2014-ONA-2596695-2596711][bib]] | [[https://dl.acm.org/citation.cfm?doid=2596695.2596711][DOI]] | [[https://dl.acm.org/citation.cfm?doid=2596695.2596711][http]] ]
+
+[45] Sai Gollapudi and Venkatesh Choppella. Descriptive study of
+    college bound rural youth of ap, india. In Proceedings of the IEEE
+    International Conference on Technology for Education (T4E2013),
+    pages 76-79. IEEE, December 2013. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Gollapudi-Choppella-t4e-2013][bib]] | [[http://pascal.iiit.ac.in/~choppell/research/papers/2013-t4e-sai.pdf][.pdf]] ]
+
+[44] Krishna Chaitanya Telikicherla and Venkatesh Choppella. Alloy
+    model for Cross Origin Request Policy (CORP). Technical Report
+    IIIT/TR/2013/31, IIIT-Hyderabad, Aug 2013.[[http://web2py.iiit.ac.in/research_centres/publications/view_publication/techreport/112][link]]. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Alloy-Corp-Tech-2013][bib]] ]
+
+[43] P Manjula, Venkatesh Choppella, and K Viswanath. Teaching
+    algorithms using discrete dynamical systems and graph plots. In
+    Proceedings of the IEEE International Conference on Technology for
+    Education (T4E2013). IEEE Press, 2013. Accepted for Publication. [
+    [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Manjula-et-al-t4e-2013][bib]] ]
+
+[42] Sourav Chatterjee, Pranitha Reddy, and Venkatesh
+    Choppella. Automated restructuring of contents for virtual
+    labs. In Proceedings of the IEEE International Conference on
+    Technology for Education (T4E2013). IEEE Press, 2013. Accepted for
+    Publication. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Chatterjee-et-al-t4e-2013][bib]] ]
+
+[41] Santosh Arvind Adimoolam, Venkatesh Choppella, and PVR
+    Murthy. Verifying timed CTL contracts for continuous pure signal
+    I/O automata by encoding as virtual environments. Technical Report
+    IIIT/TR/2013/26, International Institute of Information Technology
+    Hyderabad, 2013. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Adimoolam-Choppella-2013][bib]] ]
+
+[40] Ankur Goel and Venkatesh Choppella. State based access control for
+    open E-governance. In Proceedings of the ACM International
+    Conference on the theory and practice of E-governance (ICEGOV
+    2013). ACM Press, Oct 2013. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Goel-Choppella-icegov-2013][bib]] ]
+
+[39] Himanshu Zade and Venkatesh Choppella. Functionality or user
+    interface: which is easier to learn when changed? In IEEE 4th
+    International Conference on Intelligent Human Computer Interaction
+    (IHCI), pages 1-6. IEEE, December 2012. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#zade-choppella-ihci-2012][bib]] | [[http://pascal.iiit.ac.in/~choppell/research/papers/2012-ihci.pdf][.pdf]] ]
+
+[38] T. B. Dinesh and Venkatesh Choppella. Alipi: Tools for a
+    re-narration web. In Proceedings of the International
+    Cross-Disciplinary Conference on Web Accessibility, W4A '12, pages
+    29:1-29:2, New York, NY, USA, 2012. ACM. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Dinesh-2012-ATR-2207016-2207038][bib]] | [[https://dl.acm.org/citation.cfm?doid=2207016.2207038][DOI]] | [[https://dl.acm.org/citation.cfm?doid=2207016.2207038][http]] ]
+
+[37] T. B. Dinesh, S. Uskudarli, Subramanya Sastry, Deepti Aggarwal,
+    and Venkatesh Choppella. Alipi: A framework for re-narrating web
+    pages. In Proceedings of the International Cross-Disciplinary
+    Conference on Web Accessibility, W4A '12, pages 22:1-22:4, New
+    York, NY, USA, 2012. ACM. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Dinesh-2012-AFR-2207016-2207030][bib]] | [[https://dl.acm.org/citation.cfm?doid=2207016.2207030][DOI]] | [[https://dl.acm.org/citation.cfm?doid=2207016.2207030][http]] ]
+
+[36] Deepti Aggarwal, Rohit Ashok Khot, Vasudeva Varma, and Venkatesh
+    Choppella. upick: Crowdsourcing based approach to extract
+    relations among named entites. In Proceedings of the 2012
+    international conference on Human Computer Interaction,
+    IndiaHCI'12, pages 1-8, 2012. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Aggarwal-2012][bib]] ]
+
+[35] Ankur Goel and Venkatesh Choppella. Algebraic modelling of
+    educational workflows. In IEEE 4th International Conference on
+    Technology for Education, pages 153-156. IEEE, 2012. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#goel-choppella-t4e-2012][bib]] | [[http://pascal.iiit.ac.in/~choppell/research/papers/2012-t4e-ankur.pdf][.pdf]] 
+    ]
+
+[34] S. Malani, G.N.S. Prasanna, J.A. del Alamo, J.L. Hardison,
+    K. Moudgalya, and V. Chopella. Issues faced in a remote
+    instrumentation laboratory. In IEEE 4th International Conference
+    on Technology for Education, pages 67-74. IEEE Press, 2012. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#malini-et-al-t4e-2012][bib]]
+    ]
+
+[33] Venkatesh Choppella, Hitesh Kumar, P. Manjula, and
+    K. Viswanath. From high-school algebra to computing through
+    functional programming. In IEEE 4th International Conference on
+    Technology for Education, pages 180-183. IEEE Press, 2012. [[[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#choppella-et-al-t4e-2012][bib]] ]
+
+[32] Sankalp Khare, Ishan Misra, and Venkatesh Choppella. Using
+    org-mode and subversion for managing and publishing content in
+    computer science courses. In IEEE 4th International Conference on
+    Technology for Education, pages 220-223. IEEE Press, 2012. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#khare-et-al-t4e-2012][bib]] ]
+
+[31] Venkatesh Choppella, Vamsikrishna Brahmajosyula, T B Dinesh, and
+    Nadin Kokciyan. Towards a declarative workflow model for
+    customizing group processes. In International Conference on
+    Distributed Computing and Internet Technologies (ICDCIT 2011),
+    February 2011. Oral presentation. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-icdcit-2011][bib]] ]
+
+[30] Venkatesh Choppella., V K Brahmajosyula, M. Vutpala., and
+    S. Kole. Process models for virtual lab development, deployment
+    and distribution. In IEEE 3rd International Conference on
+    Technology for Education, pages 293-294. IEEE Press, 2011. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#choppella-et-al-t4e-2011][bib]] ]
+
+[29] Rohit Khot and Venkatesh Choppella. Discovir: A framework for
+    designing interfaces and structuring content for virtual labs. In
+    IEEE 3rd International Conference on Technology for Education,
+    pages 121-127. IEEE Press, 2011. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#khot-choppella-t4e-2011][bib]] ]
+
+[28] K.C. Bandi, A.K. Nori, V. Choppella, and S. Kode. A virtual
+    laboratory for teaching linux on the web. In IEEE 3rd
+    International Conference on Technology for Education, pages
+    212-215. IEEE Press, 2011. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#bandi-et-al-t4e-2011][bib]] | [[http://pascal.iiit.ac.in/~choppell/research/papers/2011-t4e-linux.pdf][.pdf]] ]
+
+[27] Vamsikrishna Brahmajosyula and Venkatesh Choppella. Modeling and
+    programming with state variables. SETLAB Briefings,
+    9(4):3-10, 2011. Expanded version of [ [[http://pascal.iiit.ac.in/~choppell/research/index.html#brahmajosyula-choppella-wambse-2011][26]] ]. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#brahmajosyula-choppella-2011][bib]] ]
+
+[26] Vamsikrishna Brahmajosyula and Venkatesh Choppella. Modeling and
+    programming with state variables. In 2nd Workshop on Advances in
+    Model-based Software Engineering, 2011. Colocated with 4th ISEC
+    2011, Trivandrum India. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#brahmajosyula-choppella-wambse-2011][bib]] ]
+
+[25] Venkatesh Choppella. Foss, web2.0 and mashups as a natural
+    learning management infrastructure. In IEEE Conf. on Technology
+    for Education, July 2010. Conference tutorial. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-t4e-tutorial-2010][bib]] ]
+
+[24] Thulasiram Naidu P, Manisha Verma, Venkatesh Choppella, and
+    Gangadhar Chalapaka. Synthesizing customizable learning
+    environments. In 2nd IEEE International Conference on Technology
+    for Education, July 2010. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#naidu-et-al-t4e-2010][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2010-t4e-naidu.pdf][.pdf]] ]
+
+[23] T B Dinesh and Venkatesh Choppella. A case for process-driven
+    models for e-governance architectures. In 7th International
+    Conference on E-Government, April 2010. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#dinesh-choppella-iceg-2010][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2010-iceg.pdf][.pdf]] ]
+
+[22] Venkatesh Choppella and K R Srivathsan. Fostering community
+    interaction with the trivandrum city police portal. In 3rd ACM
+    International Conference on the Theory and Practice of
+    E-Governance, pages 365-368, November 2009. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#choppella-srivathsan-icegov-2009][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2009-icegov.pdf][.pdf]] ]
+
+[21] Venkatesh Choppella, Arijit Sengupta, Ed Robertson, and Steven
+    Johnson. Prelimary explorations in specifying and verifying
+    entity-relationship models in pvs. In Natarajan Shankar and John
+    Rushby, editors, Proceedings of AFM'07: Second ACM workshop on
+    Automated Formal Methods, pages 1-10. ACM Press, November 2007. [
+    [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#choppella-et-al-afm07][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2007-afm.pdf][.pdf]] ]
+
+[20] Venkatesh Choppella, Arijit Sengupta, Edward Robertson, and Steven
+    D. Johnson. Constructing and Validating Entity-Relationship models
+    in the PVS Specification Language: A case study using a text-book
+    example. Technical Report 632, Indiana University Computer
+    Science, April 2006. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#choppella-sengupta-robertson-johnson-tr-2006][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2006-iucs-tr632.pdf][.pdf]] ]
+
+[19] Sandhya Krishnan, Sriram Krishnamoorthy, Gerald Baumgartner,
+    Chi-Chung Lam, J. Ramanujam, P. Sadayappan, and Venkatesh
+    Choppella. Efficient synthesis of out-of-core algorithms using a
+    nonlinear optimization solver. Journal of Parallel and Distributed
+    Computing, 66:659-673, 2006. Invited
+    Submission. Supercedes [ [[http://pascal.iiit.ac.in/~choppell/research/index.html#Krishnan-et-al-IPDPS-2004][13]] ]. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#krishnan-et-al-jpdc-2006][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2006-jpdc.pdf][.pdf]] ]
+
+[18] A. Hartono, Qingda Lu, Xiaoyang Gao, Sriram Krishnamoorthy, Marcel
+    Nooijen, Gerald Baumgartner, David E. Bernholdt, Venkatesh
+    Choppella, Russel M. Pitzer, J Ramanujam, Atanas Rountev, and
+    P. Sadayappan. Identifying cost-effective common subexpressions to
+    reduce operation count in tensor contraction evaluations. In
+    V. N. Alexandrov et al., editor, Proceedings of the International
+    Conference on Computational Science (ICCS), Part 1, volume 3991 of
+    Lecture Notes in Computer Science, pages
+    267-275. Springer-Verlag, 2006. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Hartono-et-al-iccs-2006][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2006-iccs.pdf][.pdf]] ]
+
+[17] Alexander Auer, Gerald Baumgartner, David E. Bernholdt, Alina
+    Bibireata, Venkatesh Choppella, Daniel Cociorva, Xiaoyang Gao,
+    Robert Harrison, Sriram Krishanmoorthy, Sandhya Krishnan,
+    Chi-Chung Lam, Marcel Nooijen, Russell Pitzer, J. Ramanujam,
+    P. Sadayappan, and Alexander Sibiryakov. Automatic code generation
+    for many-body electronic structure methods: The Tensor Contraction
+    Engine. Molecular Physics, 104(2):211-228, January 2006. invited
+    paper for R. J. Bartlett Festschrift. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Auer-MolPhysics-2006][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2006-molphysics.pdf][.pdf]] ]
+
+[16] V. Choppella and C. T. Haynes. Sourcetracking unification (revised
+    and extended version). Information and Computation,
+    201(2):121-159, September 2005. Invited
+    Submission. Supercedes [9]. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-Haynes-IAC-2005][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2005-iac.pdf][.pdf]] ]
+
+[15] Gerald Baumgartner, Alexander Auer, David E. Bernholdt, Alina
+    Bibireata, Venkatesh Choppella, Daniel Cociorva, Xiaoyang Gao,
+    Robert Harrison, So Hirata, Sriram Krishanmoorthy, Sandhya
+    Krishnan, Chi-Chung Lam, Marcel Nooijen, Russell Pitzer,
+    J. Ramanujam, P. Sadayappan, and Alexander Sibiryakov. Synthesis
+    of high-performance parallel programs for a class of ab initio
+    quantum chemistry models. Proc. of the IEEE, 93(2):276-292,
+    February 2005. Invited Paper. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Baumgartner-ieee-2005][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2005-ieee.pdf][.pdf]] ]
+
+[14] Venkatesh Choppella. Polymorphic type reconstruction using type
+    equations. In Greg Michaelson Phil Trinder and Recardo Pe na,
+    editors, Implementation of Functional Languages: 15th
+    International Workshop, IFL 2003, Edinburgh, UK, volume 3145 of
+    Lecture Notes in Computer Science, pages 53-68. Springer Verlag,
+    December 2004. ISBN: 3-540-23727-5. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-IFL-2003][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2003-ifl.pdf][.pdf]] ]
+
+[13] S. Krishnan, S. Krishnamoorthy, G. Baumgartner, C-C. Lam,
+    J. Ramanujam, P. Sadayappan, and V. Choppella. Efficient synthesis
+    of out-of-core algorithms using a nonlinear optimization
+    solver. In Proc. International Parallel and Distributed Processing
+    Symposium (IPDPS 2004), Albuquerque, New Mexico, USA. IEEE
+    Computer Society, April 2004. ISBN: 0-7695-2132-0. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Krishnan-et-al-IPDPS-2004][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2004-ipdps.pdf][.pdf]] ]
+
+[12] Venkatesh Choppella. A compositionality principle for
+    unification. Accepted for publication at UNIF 2004 but not
+    presented, 2004. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-2004-compositionality][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2004-unif.pdf][.pdf]] ]
+
+[11] A. Bibireata, S. Krishnan, G. Baumgartner, D. Cociorva, C-C. Lam,
+    P. Sadayappan, J. Ramanujam, D. E. Bernholdt, and
+    V. Choppella. Memory-constrained data locality optimizations for
+    tensor contractions. In Proc. 16th International Workshop on
+    Languages and Compilers for Parallel Computing (LCPC '03), number
+    2958 in Lecture Notes in Computer Science, pages 93-108, College
+    Station, Texas, 2004. Springer. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Bibireata-et-al-LCPC-2004][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2004-lcpc.pdf][.pdf]] ]
+
+[10] S. Krishnan, S. Krishnamoorthy, G. Baumgartner, D. Cociorva,
+    C. Lam, P. Sadayappan, J. Ramanujam, D. E. Bernholdt, and
+    V. Choppella. Data locality optimization for synthesis of
+    efficient out-of-core algorithms. In Proc. of the Intl. Conf. on
+    High Performance Computing (HiPC 2003), number 2913 in Lecture
+    Notes in Computer Science, pages 406-417, Hyderabad, India,
+    December 2003. Springer. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Krishnan-et-al-HiPC-2003][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2003-hipc.pdf][.pdf]] ]
+
+[9] V. Choppella and C. T. Haynes. Source-tracking Unification. In
+    Franz Baader, editor, Proceedings of 19th International Conference
+    on Automated Deduction, CADE-19, Miami Beach, USA, number 2741 in
+    Lecture Notes in Artificial Intelligence, pages
+    458-472. Springer, 2003. Superceded by [16]. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-Haynes-CADE-2003][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2003-cade.pdf][.pdf]] ]
+
+[8] Venkatesh Choppella. Unification Source-tracking with Application
+    to Diagnosis of Type Inference. PhD thesis, Indiana University,
+    August 2002. IUCS Tech Report TR566. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-thesis-02][bib]] | [[https://www.cs.indiana.edu/cgi-bin/techreports/TRNNN.cgi?trnum=TR566][http]] | [[http://pascal.iiit.ac.in/~choppell/papers/2002-tr566.pdf][.pdf]] ]
+
+[7] A. Banerji, C. Bartolino, D. Beringer, K. Govindarajan
+    V. Choppella, A. Karp, H. Kuno, M. Lemon, G. Pogossiants,
+    S. Sharma, and S. Williams. Web services conversation language
+    (wscl) 1.0. Technical report, Hewlett-Packard Company,
+    March 2002. World Wide Web Consortium Note [[http://www.w3.org/TR/wscl10][link]]. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#WSCL-2002][bib]] | [[https://www.w3.org/TR/wscl10/][http]] ]
+
+[6] M. Govindaraju, A. Slomenski, V. Choppella, R. Bramley, and
+    D. Gannon. Requirements for and evaluation of rmi protocols for on
+    the performance of remote method invocation for scientific
+    computing. In Proc. of the IEEE/ACM International Conference on
+    Supercomputing (SC 2000), November 2000. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Govindaraju-et-al-Supercomputing-2000][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/2000-sc.pdf][.pdf]] ]
+
+[5] B. Bose, M. E. Tuna, and V. Choppella. Tutorial on Digital Design
+    Derivation with DRS. In Proc. 1st International Conf. on Formal
+    Methods in Computer Aided Design, (FMCAD '96), Palo Alto, CA, USA,
+    number 1166 in Lecture Notes in Computer Science. Springer,
+    November 1996. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Bose-Tuna-Choppella-FMCAD-1996][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/1996-fmcad.pdf][.pdf]] ]
+
+[4] V. Choppella and C. T. Haynes. Diagnosis of ill-typed
+    programs. Technical Report 426, Indiana University,
+    February 1995. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Choppella-Haynes-1995][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/1995-iucs-tr426.pdf][.pdf]] ]
+
+[3] P. Bradford, V. Choppella, and G. J. E. Rawlins. Lower bounds on
+    the matrix chain order problem. In Ricardo Baeza-Yates, Eric
+    Goles, and Patricio V. Poblete, editors, Proc. 2nd Latin American
+    Symposium on Theoretical Informatics, (LATIN'95), Valparaiso,
+    Chile, Lecture Notes in Computer Science, pages
+    112-130. Springer, 1995. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Bradford-Choppella-Rawlins-1995][bib]] ]
+
+[2] K. Rath, V. Choppella, and S. D. Johnson. Decomposition of
+    sequential behavior using interface specification and
+    complementation. VLSI Design, Special Issue on Decomposition,
+    3(3-4):347-358, 1995. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Rath-Choppella-Johnson-1995][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/1995-vlsi-design.pdf][.pdf]] ]
+
+[1] Philip Bradford, Venkatesh Choppella, and Gregory
+    J. E. Rawlins. Lower bounds for the matrix chain order
+    problem. Technical Report TR 391, Indiana University,
+    October 1993. [ [[http://pascal.iiit.ac.in/~choppell/research/venk_bib.html#Bradford-Choppella-Rawlins-1993][bib]] | [[http://pascal.iiit.ac.in/~choppell/papers/1993-iucs-tr391.pdf][.pdf]] ]
+
