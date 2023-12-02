@@ -11,7 +11,7 @@
 * Home
 #+include: "./home/home.org"
 * Students
-
+#+include: "./students/students.org"
 * Research
 
 * Teaching
