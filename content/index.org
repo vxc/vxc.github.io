@@ -1,12 +1,28 @@
-#+title: Integrating Org mode website with github pages
+#+TITLE:  Venkatesh Choppella
+#+AUTHOR: VLEAD
+#+DATE: [2018-02-19 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
 
-* Getting started
 
-1. Create an account in github.
 
-* Links
+* Home
+#+include: "./home/home.org"
+* Students
+#+include: "./students/students.org"
+* Research
+#+include: "./research/research.org"
+* Teaching
+#+include: "./teaching/teaching.org"
+* Publications
+#+include: "./publications/publications.org"
+* Jobs
+#+include: "./jobs/job.org"
+* Contact-us
+#+include: "./contact-us/contact-us.org"
 
-- [[https://systemcrafters.net][System Crafters Official Site]]
-- [[https://youtube.com/SystemCrafters][System Crafters on YouTube]]
-- [[https://twitch.com/SystemCrafters][System Crafters on Twitch]]
-- [[https://twitter.com/SystemCrafters][System Crafters on Twitter]]
+
+
+
