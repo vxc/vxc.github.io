@@ -15,9 +15,9 @@
 * Research
 #+include: "./research/research.org"
 * Teaching
-#+include: "./teaching/teaching.org"
+#+include: "./teaching/teaching.org"			
 * Publications
-
+#+include: "./publications/publications.org"
 * Jobs
 
 * Contact-us
