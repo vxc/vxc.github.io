@@ -14,7 +14,7 @@
 (package-install 'htmlize)
 
 
-(require 'org-publish)
+(require 'ox-publish)
 (org-publish-all t)
 
 (message "Build complete!")
