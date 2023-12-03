@@ -1,0 +1,209 @@
+\documentclass[
+%titlepage, 
+%separate page for title
+9pt, 
+%twoside % page numbers on the outside
+]{article}
+%{report}
+\usepackage[pdftex,dvipsnames,x11names,svgnames,table,fixpdftex,hyperref]{xcolor}
+\usepackage{palatino}
+\usepackage[square]{natbib}
+\usepackage{array}
+\usepackage{colortbl}
+\usepackage{longtable}
+\usepackage{dcolumn}
+\usepackage{epigraph}
+\usepackage{multirow}
+\usepackage{graphicx}
+%%% Comment the line below if you want a regular portrait
+%%% style page layout 
+% \include{pdfscreen}
+\definecolor{lightgrey}{gray}{0.75}
+%%% Comment the line below if you want a white background.
+% \pagecolor{lightgrey}
+\usepackage{palatino}
+\usepackage[pdftitle={Proposal of Venkatesh Choppella's activities under Eureca Programme},%
+colorlinks=true,% true
+citecolor=blue,
+linkcolor=Brown,
+urlcolor=Brown,%navy%
+]{hyperref}
+
+\hypersetup{
+pdfauthor= {Venkatesh Choppella <choppell@iiitmk.ac.in>},
+pdfkeywords = {Research, Teaching, IIITM-K, Venkatesh Choppella, EURECA}
+}
+
+%                                  %%% pdfcreator, pdfproducer, 
+%                                      and CreatioDate are automatically set
+%                                      by pdflatex !!!
+\pdfadjustspacing=1                %%% force LaTeX-like character spacing
+%
+
+\begin{document}
+\title{Teaching Statement}
+\author{Venkatesh Choppella}
+\date{\today}
+\maketitle
+
+\begin{abstract}
+  This document describes my efforts and plans for advancing
+  computer science education.
+\end{abstract}
+
+\paragraph{Courses  past, present and future}
+I have taught or assisted in the teaching of the following
+courses: discrete mathematics, data structures, principles
+of programming, programming languages, denotational
+semantics, type systems, compilers, web technologies which I
+am teaching this semester, databases, scientific computing,
+and computational biology.  Web pages of some of those
+courses are available online~\cite{choppella-courses}.  I
+would like to teach the courses listed above and also design
+new courses on program specification and verification, and
+information security.
+
+\paragraph{Abstraction Principles for Software Design}
+My teaching follows \  --- but sometimes also leads --- \  my
+research interests, which broadly span program language
+design, implementation and abstraction principles for the
+design of software.  Much of programming language research
+is about semantics (ascribing meanings to programs) and
+designing abstraction principles to improve the
+organizational structure of programs.  Most application
+programs are simple in terms of their formal algorithmic
+complexity.  Instead, their complexity arises from the
+structure of their implementations.  Their correctness,
+efficiency and adaptibility in the face of competing and
+cross cutting concerns like concurrency, distribution and
+interaction makes programming hard.
+
+\paragraph{Convergence} 
+Today's software and computer systems exhibit a convergence
+of concepts, methodologies and technologies and concepts
+from science and engineering.  Education in computer science
+should address how to harness this convergence.
+
+% \paragraph{Formal notation}
+% I am interested in developing pedagogy that introduces
+% software engineers to formal notation at an early stage in
+% their education.  Set theory, higher-order logic and
+% axiomatic methods are eminently suited for providing precise
+% formulations of many kinds of software requirements and
+% design.  High level programming languages like Scheme and
+% Haskell, and specification languages like Z and the
+% Prototype Verification System (PVS) allow the programmer to
+% use such formal notation as stylized equational logics.
+% While the average mechanical or aerospace engineer will
+% easily identify a rate equation, most programmers rarely
+% even know, let alone use formal notations like sets,
+% relations, and rewrite rules.  I plan to introduce formal
+% notation early and often so programmers can think more like
+% engineers.
+
+\paragraph{ICASE}
+My agenda for the next few years is to reformulate computer
+science education along the ideas mentioned in the preceding
+paragraphs, building in the process a programme for
+Integrated Computing and Software engineering Education
+(ICASE).  The emphasis on ICASE is to show how concepts
+across various subdisciplines of computing are connected.
+Theoretical foundations will be connected to models,
+methodologies, technologies and applications.  ICASE will
+systematically bring in the element of rigour in the
+teaching of designing of software systems so that it matures
+into an engineering discipline.
+
+\paragraph{Six course suite}
+ICASE will involve six courses: Principles of Programming,
+Logic and Discrete Mathematics, Data Structures, Database
+Design, Software Engineering and project management, and Web
+Technologies.  These courses will be closely linked with
+each other through assignments, homework problems and
+projects that take a concept, and elaborate its various
+aspects across different courses (e.g., first order logic
+and its exposition in a discrete maths course, its
+implementation in an interpreter in a programming course,
+and its use as a query language in a database course).
+ICASE could be offered as an undergraduate or master's level
+stream.
+
+\paragraph{Principles of Programming}
+For the last two years, I have been involved in designing
+and teaching a new course on the Principles of Programming
+(PoP).  This course teaches fundamental programming concepts
+like abstraction, recursion, closures, and persistence using
+a definitional interpretation approach.  These concepts are
+then used to build web 2.0 gadgets employing modern software
+engineering practices of open source development.  This is a
+more radical approach than that found in the landmark
+programming texts~\cite{sicp,htdp,eopl}.  These other texts
+do a brilliant job of teaching fundamentals, but do not
+attempt to place programming concepts in today's computing
+frameworks like the Web, mobile, and embedded systems.  In
+PoP, students employ Scheme and Javascript with HTML and DOM
+programming on a web browser.  Then they build a browser
+based spreadsheet application ({\em \`a~la\/} Google
+Spreadsheets) through a series of home work assignments.
+Some of these points are elaborated in my recent talk at
+Google R\&D, Benguluru~\cite{venk-google-talk-2008}.
+
+\paragraph{PoP Book and Community}
+My plan is to design, build and teach this PoP and its
+variants (with embedded systems), and disseminate it using
+the NPTEL model of video instruction.  The larger objective
+is to build a learning community around an open wiki to
+which teachers and students all over the world can
+contribute.  I am working on an online, interactive book
+tentatively titled {\em Principles of Programming with Web
+  2.0\/} with my colleagues T B Dinesh and Guillaume
+Marceau.
+
+% \paragraph{Professional Development Programme}
+% The ICASE initiative should be part of a larger professional
+% development programme in computing, science and engineering.
+% I would like to actively help IITH establish such a
+% programme, which could use the the Stanford Centre for
+% Professional Development~\cite{scpd} as its model.
+
+\paragraph{Instructional Technologies and FOSS in Education}
+I have been using free and open software (FOSS) since 1988,
+and I will continue to actively promote its use in science
+and engineering education, and general computing.  At
+IIITM-K, my current employer, I introduced several
+instructional technologies to make learning more effective:
+wikis, online student course feedback, google calendar and
+groups, version control, \LaTeX, and Emacs.  FOSS is also
+making huge inroads into the world of scientific computing.
+Pre-eminent institutes like the IIT's are specially
+positioned well to promote free and open source software
+(FOSS) through education.  To drive innovation in education,
+IITH should work towards establishing an advanced centre for
+instructional technologies and innovative learning.  IITH
+could consider establishing this jointly with IGNOU and
+other national institutes.  Ideally, a joint IIT-IGNOU
+centre could be established at the Hyderabad campus.
+
+% \paragraph{Conclusion: The romance of teaching}
+% These are glorious times for the teaching profession.  We
+% have a fantastic opportunity to make learning enjoyable,
+% purposeful and open to a world wide classroom of lifelong
+% learners.  But the challenges remain.  We need to revitalize
+% education so that it enlightens and edifies, and remains
+% holistic and useful.  Our education should show the student
+% how to combine the abstract with the concrete, and lead them
+% to understand the invariants driving a constantly changing
+% world.  %
+% % Can what we teach measure up to the famous
+% % observation of Swami Vivekananda, ``Education is the
+% % manifestation of the perfection already in Man.''?  
+% The excitement of these challenges is what draws me to teaching.
+
+% % We must innovate constantly to
+% % remain relevant, because the student today has many choices?
+
+\bibliographystyle{plain}
+
+\bibliography{../biblio/venk,../biblio/rest}
+\end{document}
+

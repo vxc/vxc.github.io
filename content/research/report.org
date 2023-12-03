@@ -1,0 +1,34 @@
+#+title:  Venkatesh Choppella Research Overview
+
+* Introduction
+
+This document briefly describes my research career and my
+current research interests.  
+
+My research in computer science started in Type systems for
+Programming Languages.  For my Masters thesis, I built an C
+implementation of the key features of functional languages
+like ML on the SECD machine.  For my PhD, I investigated the
+cause of errors in typed programming languages by tracing
+errors in term unification.  I then worked on proving
+compiler transformations using the Automated theorem prover
+PVS.  For my post-doctoral work, I switched to understanding
+and implementing domain specific languages for high
+performance computing.  
+
+Compilers[2003-2006], Information Technology
+[2004-2010], Web Architectures [2006-] Security [2013-] and
+Concurrency control [2017-], Educational Technology and
+Computer Science Education [2004-].
+
+My PhD work in Programming Languages investigated type
+errors in typed higher-order functional programming
+language, notable Standard ML.  An initial IU Technical
+Report cite:Choppella-Haynes-1995 presented the approach
+taken by the work, namely, suggesting equational reasoning
+over type equations to capture type errors.
+
+
+* Bibliography
+bibliographystyle:unsrtnat
+bibliography:../biblio/ref.bib

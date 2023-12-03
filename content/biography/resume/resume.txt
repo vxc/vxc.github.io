@@ -1,0 +1,357 @@
+
+                              Venkatesh Choppella
+
+Contact Information
+
+   Indian Institute of Information Technology and Management -- Kerala
+   Park Centre, Technopark, Kariavottam P.O.
+   Trivandrum, Kerala 695 581, INDIA
+   Phone: +91-938-775-7109
+   Fax: +91-471-252-7568
+   Email: choppell_AT_gmail.com
+   URL: [1]http://www.iiitmk.ac.in/~choppell
+
+Interests
+
+   Software Architectures, Programming and Specification Languages,
+   Compilers, Verification, Computer Security.
+
+Education
+
+  Indiana University Bloomington, IN, USA
+
+     * PhD in Computer Science, Aug 2002
+
+  Indian Institute of Technology Madras, India
+
+     * M.Tech. in Computer Science, May 1987
+
+  Indian Institute of Technology Kanpur, India
+
+     * B.Tech. in Computer Science, May 1985
+
+Employment
+
+   CAPTION:
+
+   Visiting Research Associate Ohio State University 2006 May - 2005 May
+   Associate Professor Indian Inst. of Info. Tech. and Mgmt. Kerala
+   Present - 2003 Oct
+   Consultant and Adjunct Faculty Tata Consultancy Services 2005 Nov -
+   2003 Nov
+   Post Doctoral Researcher Oak Ridge National Laboratory 2003 Sep - 2002
+   Dec
+   PhD Candidate Indiana University 2002 Aug - 2001 Sep
+   Senior Software Engineer Hewlett-Packard Company 2001 Aug - 2001 Jan
+   Member, Research Staff Indiana University 2000 Dec - 2000 Mar
+   Senior Software Engineer Xerox Corporation Feb 2000 - 1999 Sep
+   Research Assistant Indiana University 1999 Aug - 1999 Jan
+   Member, Research Staff Xerox Corporation 1998 Dec - 1997 Aug
+   Member, Research Staff Derivation Systems Inc. 1997 May - 1995 Jun
+
+Refereed Workshop and Conference Publications
+
+   Albert Hartono, Qingda Lu, Xiaoyang Gao, Sriram Krishnamoorthy, Marcel
+   Nooijen, Gerald Baumgartner, Venkatesh Choppella, David Bernholdt,
+   Russell Pitzer, J. Ramanujam, Atanas Rountev, and P. Sadayappan.
+   Identifying Cost-Effective Common Subexpressions to Reduce Operation
+   Count in Tensor Contraction Evaluations. International Conference on
+   Computational Science (ICCS'06), LNCS 3991, pages 267-275, May 2006.
+   Springer-Verlag.
+
+   S. Krishnan, S. Krishnamoorthy, G. Baumgartner, C-C. Lam, J.
+   Ramanujam, P. Sadayappan and V. Choppella. Efficient Synthesis of
+   Out-of-core Algorithms Using a Nonlinear Optimization Solver. Proc.
+   International Parallel and Distributed Processing Symposium,
+   Albuquerque, New Mexico, USA, Apr 2004. IEEE Computer Society.
+
+   A. Bibireata, S. Krishnan, G. Baumgartner, D. Cociorva, C-C. Lam, P.
+   Sadayappan, J. Ramanujam, D. E. Bernholdt and V. Choppella.
+   Memory-constrained Data Locality Optimizations for Tensor Contractions
+   Proc. 16th International Workshop on Languages and Compilers for
+   Parallel Computing (LCPC '03), College Station, Texas, Oct 2003}}.
+   Springer Lecture Notes in Computer Science Vol. 2958, pp. 93--108,
+   2004.
+
+   V. Choppella. Polymorphic Type Reconstruction Using Type Equations.
+   Implementation of Functional Languages 15th International Workshop,
+   IFL 2003, Edinburgh, UK, Sep 2003 Revised Papers Springer Lecture
+   Notes in Computer Science, Vol. 3145, pp. 53--68, 2004.
+
+   S. Krishnan, S. Krishnamoorthy, G. Baumgartner, D. Cociorva, C. Lam,
+   P. Sadayappan, J. Ramanujam, D. E. Bernholdt, and V. Choppella. Data
+   Locality Optimization for Synthesis of Efficient Out-of-Core
+   Algorithms Proc. of the Intl. Conf. on High Performance Computing,
+   Hyderabad, India, Dec 2003}}. Springer Lecture Notes in Computer
+   Science, Vol. 2913 pp. 406--417, 2003.
+
+   V. Choppella and C. T. Haynes Source-tracking Unification Proceedings
+   of 19th International Conference on Automated Deduction, (CADE-19),
+   Miami Beach, USA, Aug 2003. Springer Lecture Notes in Artificial
+   Intelligence, Vol. 2741, pp. 458--472, 2003.
+
+   M. Govindaraju, A. Slomenski, V. Choppella, R. Bramley and D. Gannon.
+   Requirements for and Evaluation of RMI Protocols for Scientific
+   Computing}. Proc. of the IEEE/ACM conference on SuperComputing (SC
+   2000), Nov 2000
+
+   B. Bose. M. Esen Tuna, and V. Choppella. Tutorial on Digital Design
+   Derivation with DRS Proc. 1st International Conf. on Formal Methods in
+   Computer Aided Design, (FMCAD '96), Palo Alto, CA, USA, Nov 1996.
+   Springer Lecture Notes in Computer Science, Vol 1166, 1996.
+
+   P. Bradford, V. Choppella, and G. J. E. Rawlins. [2]Lower Bounds on
+   the Matrix Chain Order problem: Extended Abstract Proc. 2nd Latin
+   American Symposium on Theoretical Informatics, (LATIN'95), Valparaiso,
+   Apr 1995. Springer Verlag Lecture Notes in Computer Science Vol. 911,
+   1995.
+
+Journal Publications
+
+   S. Krishnan, S. Krishnamoorthy, G. Baumgartner, C-C. Lam, J.
+   Ramanujam, P. Sadayappan and V. Choppella. Efficient Synthesis of
+   Out-of-core Algorithms Using a Nonlinear Optimization Solver (Revised
+   and Extended Version) Journal of Parallel and Distributed Computing.
+   Vol. 66. pp.659-673, May 2006 Invited submission
+
+   Alexander A. Auer, Gerald Baumgartner, David E. Bernholdt, Alina
+   Bibireata, Venkatesh Choppella, Daniel Cociorva, Xiaoyang Gao, Robert
+   Harrison, Sriram Krishnamoorthy, Sandhya Krishnan, Chi-Chung Lam,
+   Qingda Lu, Marcel Nooijenk, Russell Pitzer, J. Ramanujam, P.
+   Sadayappan and Alexander Sibiryakov. Automatic code generation for
+   many-body electronic structure methods: the tensor contraction engine.
+   Molecular Physics Vol. 104, No. 2, pp.211-228, January 2006.
+
+   V. Choppella and C.T. Haynes. Source-tracking Unification (Revised and
+   Extended Version) Information and Computation. Vol. 201 Issue 2, pp.
+   121-159, Sep 2005 Invited submission.
+
+   G. Baumgartner, A. Auer, D. Bernholdt, A. Bibireata, V. Choppella, D.
+   Cociorva, X. Gao, R. Harrison, S. Hirata, S. Krishnamoorthy, S.
+   Krishnan, C. Lam, M. Noojien, R. Pitzer, J. Ramanujam, P. Sadayappan,
+   A. Sibiryakov. Synthesis of High Performance Parallel Programs for a
+   Class of ab initio Quantum Chemistry Models. Proceedings of the IEEE:
+   Special Issue on Domain-Specific Program Generation and Optimization.
+   Vol.93, No. 2, pp.276--292, February 2005. Invited submission.
+
+   K. Rath, V. Choppella and S. D. Johnson. Decomposition of Sequential
+   Behavior using Interface Specification and Complementation. VLSI
+   Design, Special Issue on Decomposition. Vol. 3, Nos. 3-4, pp.
+   347--358, 1995.
+
+Journal and Conference Submissions
+
+   Philip Bradford and Venkatesh Choppella Fast Semi-Dyck Constrained
+   Shortest Paths. Submitted for review.
+
+   V. Choppella, A. Sengupta, E. L. Robertson and S. D. Johnson.
+   Specifying and Validating data models in PVS Submitted for review.
+
+Papers in Preparation
+
+   Choppella, A. Hartono, P. Sadayappan, A. Rountev, G. Baumgartner.
+   Variable-free canonical forms for Tensor Expressions.
+
+Technical Reports
+
+   V. Choppella, A. Sengupta, E. L. Robertson, S. D. Johnson.
+   Constructing and Validating Entity-Relationship Data Models in the PVS
+   Specification Language: A case study using a text-book example.
+   Indiana University Computer Science Technical Report TR632. April
+   2006.
+
+   V. Choppella. A Compositionality Principle for Syntactic Unification.
+   Unpublished manuscript July 2004.
+
+   Venkatesh Choppella. Unification Source-tracking with Application to
+   Diagnosis of Type Inference. Indiana University Computer Science Tech.
+   Report. 566, Aug 2002. PhD. dissertation
+
+   A. Banerji, C. Bartolino, D. Beringer, V. Choppella, K. Govindarajan,
+   A. Karp, H. Kuno, M. Lemon, G. Pogossiants, S. Sharma, S. Williams.
+   Web Services Conversation Language (WSCL) 1.0. World Wide Web
+   Consortium Note, Mar 2002 [3]http://www.w3.org/TR/wscl10
+
+   B. Bose, M. Esen Tuna, V. Choppella. Derivational Reasoning System: A
+   Digital Design Derivation System for Hardware Synthesis. Contract
+   NAS1-20414 National Aeronautics and Space Administration (NASA) SBIR
+   Phase II Final Report, Mar 1997
+
+   V. Choppella and C. T. Haynes. Diagnosis of Ill-Typed Programs Indiana
+   University Tech. Report 426, Dec 1994
+
+Talks
+
+   Teaching the Principles of Programming: A foundational and applicative
+   Approach. Computer Society of India National Conference on Software
+   Engineering, Cochin University of Science and Engineering, Cochin,
+   India. Apr 27th, 2007 Invited Talk.
+
+   Automatic Proof Generation for Syntactic Unification. Programming
+   Languages and Verification research group, Computer Science and
+   Engineering, IIT Bombay, India. Mar 9th, 2007.
+
+   Scilab and Functional Programming. Indo-French Workshop on the Scilab
+   Scientific Computing Language IIT Bombay, India. Mar 8th,2007. Invited
+   Presentation.
+
+   IT Tools, Applications and Information Security. National Productivity
+   Council Workshop for Non-IT Executives, Poovar Island, Kerala, India.
+   Sep 30th, 2006.
+
+   Tutorial on Aspect-Oriented Programming and JML IEEE Kerala Frontiers
+   in Computing Practice Series, Trivandrum, India. July 26th, 2006. With
+   Satish Babu.
+
+   Free Software in Education. 3rd International Conference on GPL v3.
+   Bangalore, India, Aug 23-24th, 2006. Panelist
+
+   Introduction to Aspect-Oriented Design and Programming. Thirteenth
+   International Conference on Advanced Computing and Communications,
+   Coimbatore, India, Dec 14th, 2005. With Anurag Mendhekar. Invited
+   Tutorial
+
+   Constructing and Validating Data Models using PVS. IIITM-K/IEEE Kerala
+   Workshop on XML and Databases, Trivandrum, India, Dec 10th,2005.
+
+   Scheme and the Essence of Programming -- Part-I IIITM-K Get to Know
+   Seminar, Trivandrum, India, Nov 17th, 2005.
+
+   Introduction to Python Programming. Frontiers in Computing, IEEE
+   Computer Society Kerala Chapter, Trivandrum, India, Aug 2004. Invited
+   Tutorial
+
+   Virtual Learning Campus for the Kerala Education Grid. Open University
+   of Catalunya, Barcelona, Spain, July 2004.
+
+   A taste of Formal Methods TCS Corporate Training Centre, Trivandrum,
+   India, Nov 2003.
+
+   Polymorphic Type Reconstruction using Type Equations. 15th
+   International Workshop on the Implementation of Functional Languages
+   (IFL 2003), Edinburgh, UK, Sep 11th, 2003.
+
+   Unification Source-tracking. 19th International Conf. on Automated
+   Deduction, Miami, FL, USA, Aug 2003.
+
+   Aspect-Oriented Programming. Colloquium at the Computer Science
+   Department of the State University of New York at Buffalo, Apr 2002.
+
+   Diagnostic Unification and Type Inference. Colloquium at the Computer
+   Science Department, State University of New York at Stony Brook, USA,
+   Apr 2002.
+
+   Aspect-Oriented Programming (Poster). DARPA Demo Days, Baltimore
+   Maryland, USA, July 1998. With Eric Hilsdale and Taher Haveliwala.
+
+   Diagnosis of Ill-Typed Programs. ACM Midwest Programming Language
+   conference, Iowa City, Iowa, USA, April 1994.
+
+Patents
+
+   Cristina Lopes, Gregor Kiczales, John Lamping, Erik Hilsdale,
+   Venkatesh Choppella, and Taher Haveliwala. [4]Aspect-Oriented System
+   Monitoring and Tracing. U.S. Patent No. 09/357,508.
+
+Awards
+
+   [5]All India Manthan Awards 2nd Prize in the E-Governance category for
+   the Trivandrum City Police Portal for Community Interaction
+   [6]www.tvmcitypolice.org. New Delhi, India 2005.
+
+   Best Paper Award. International Parallel and Distributed Processing
+   Symposium (IPDPS), Albuquerque, New Mexico, USA, 2004.
+
+   Best Paper Award (Systems). Internationl Conference on High
+   Performance Computing (HiPC), Hyderabad, India, 2003.
+
+   DuPont Fellowship, Computer Science Dept., Indiana University, 1988.
+
+   Academic Merit Certificate for performance in the Joint Entrance
+   Examination, Indian Institute of Technology, Kanpur, 1981.
+
+Grants and Funding
+
+   Principles of Object-Oriented Programming in Java. 2007-2008 IIITM-K
+   Course preparation grant Rs. 800,000 (pending approval). Principal
+   Investigator.
+
+   Information Security Education and Awareness (ISEA). 2004-2009
+   Ministry of Information Technology, Government of India. Rs. 300,000
+   per annum.
+
+   Police Portal for Community Interaction. 2004-2005. Government of
+   Kerala. Rs. 2,900,000. Co-investigator.
+
+Professional Service
+
+   Convener, Institute Academic Affairs Committee, IIITM-K. Since Aug
+   2006.
+
+   Panelist, Scilab in Science and Engineering Education. Indo-French
+   Workshop on Scilab, IIT Bombay. Mar~8th,~2007.
+
+   Moderator, Panel on Computer Science Teaching, National workshop on
+   Technology Enhanced Learning, Trivandrum, Kerala, India. Jan 5th-6th,
+   2007.
+
+   Organizer, IEEE/CSI Workshop on Community Wireless Networking,
+   Trivandrum, Kerala, India, Dec 1st-2nd, 2006.
+
+   Programme Committee member, International Conference on Advanced
+   Computing and Communications (ADCOM~05), Coimbatore, India, Dec 14-17,
+   2005.
+
+   Programme Committee member, Free Software, Free Society: Three nation
+   conference on Free, Libre and Open Source Software, Trivandrum India,
+   May 2005.
+
+   Anonymous referee for The Fifth International Conference on Parallel
+   and Distributed Computing, Applications and Technologies (PDCAT~04).
+
+   Acknowledged by the authors of the following books for proof-reading
+   and technical assistance.
+     * G. Springer and D. P. Friedman. Scheme and the Art of Programming.
+       MIT Press,~1989.
+     * D.P. Friedman, M. Wand and C.T. Haynes. Essentials of Programming
+       Languages, 1st Edition MIT Press,~1991.
+     * Raymond Smullyan. G\"{o}del's Incompleteness Theorems. Oxford
+       University Press,~1992.
+     * Jon Barwise and Lawrence S. Moss. Vicious Circles CSLI
+       Stanford,~1997.
+
+Programming Experience
+
+   Programming Languages
+          Fortran, Lisp, C, Scheme, ML, Haskell, Prolog, Java, Python,
+          Javascript
+
+   Specification Languages
+          UML, PVS
+
+   Internet Technologies
+          J2EE (Servlets, JSP, Beans), Spring
+
+   Operating Systems
+          Unix/Linux, Windows
+
+Citizenship
+
+   Citizen of India
+
+Languages
+
+   English, Hindi, Telugu
+
+References
+
+   Available upon request.
+
+References
+
+   1. http://www.iiitmk.ac.in/~choppell
+   2. http://dx.doi.org/10.1007/3-540-59175-3_85
+   3. http://www.w3.org/TR/wscl10
+   4. http://www.patentstorm.us/patents/6473895.html
+   5. http://www.manthanaward.com/winner2005.asp
+   6. http://www.tvmcitypolice.org/

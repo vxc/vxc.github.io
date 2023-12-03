@@ -1,0 +1,21 @@
+#+AUTHOR:    Venkatesh Choppella
+#+EMAIL:     venkatesh.choppella@iiit.ac.in
+
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+STARTUP: hidestars
+#+OPTIONS: LaTeX:t          Do the right thing automatically (MathJax)
+#+LINK_HOME: ../index.html
+#+LINK_UP:   ../index.html
+
+# #+BIND: org-export-html-postamble postamble-string-with-file-last-modification-time
+#+HTML_HEAD:  <link rel="stylesheet" type="text/css" href="../../../style/css/main.css" />
+#+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
+
+
+

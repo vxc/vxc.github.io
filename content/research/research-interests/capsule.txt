@@ -1,0 +1,21 @@
+* Research Interests
+
+ - Programming Languages ::  Type systems, Program Transformation,
+      Applications of Process algebras to model workflows (Session
+      types).
+
+ - Formal Methods for S/W Engg ::  Component verification in Real-time
+      systems using model checkers like UPPAAL.  Theorem provers for
+      industrial use (Event B) .  Modeling of Web browser security
+      using Alloy.  Systematic and semantics based re-engineering and
+      transformation of code.
+
+ - Web Accessibility:: Web Re-narration (Alipi) and Semantic tweets.
+
+ - Pedagogy ::  Algo-dynamics, Functional Programming (Scheme plus
+                Javascript), Definitional interpreters for programming
+                languages.  
+
+ - Educational Technologies :: Virtual Labs design, development and
+      deployment.   
+

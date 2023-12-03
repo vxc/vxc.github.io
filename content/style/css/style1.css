@@ -1,0 +1,58 @@
+p.creator
+{
+visibility: hidden;
+}
+
+h1
+{
+color: #006600;
+}
+
+h2
+{
+color: #006600;
+}
+
+div.outline-text-2
+{
+padding-left: 2em;
+}
+
+div.outline-text-3
+{
+color: rgb(135,0,0);
+padding-left: 2em;
+}
+
+.menu
+{
+float: left;
+color: #CCC000;
+}
+
+.section-number-2
+{
+visibility: hidden;
+}
+
+#table-of-contents
+{
+width: 200px;
+visibility: hidden;
+}
+
+#text-table-of-contents
+{
+float: left;
+}
+
+div.outline-2
+{
+width: 700px;
+padding-left: 20em;
+}
+
+#postamble
+{
+visibility: hidden;
+}

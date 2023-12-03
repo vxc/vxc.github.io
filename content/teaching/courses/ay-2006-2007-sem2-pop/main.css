@@ -1,0 +1,36 @@
+body { margin-left: 20%; margin-right: 25%; margin-top: 5%}
+
+body { font-family: Verdana, sans-serif; }
+h1, h2 { color: navy;}
+body { color: #2222AA;}
+
+code { color: #CC6600; font-size: 120%; font-weight: bold}
+
+/* Banner */
+div.banner {
+  margin: 0;
+  font-size: 110% /*larger*/;
+  font-weight: bold;
+/*  line-height: 1.1; 
+  text-align: center; */
+  position: fixed;
+  top: 2em;
+  left: auto;
+/*  width: 8.5em; */
+  right: 2em;
+}
+
+
+div.banner ol li {
+  margin: 0; 
+  padding: 0.3em 0.4em;
+  font-family: Arial, sans-serif;
+  list-style: none;
+}
+
+span.loud {color: red;}
+
+div.banner ol li  a:link { text-decoration: none; color: #CC0033; } /* maroon */
+div.banner ol li  a:visited { text-decoration: none; color: #CCC000; } 
+div.banner ol li a:hover { background: white; color: red; }
+
