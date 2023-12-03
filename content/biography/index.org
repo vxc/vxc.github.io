@@ -26,7 +26,7 @@
 
 * Curriculum Vitae
 
- CV in [[./cv/cv.pdf][pdf]].
+ CV in [[./resume/short.pdf][pdf]].
 
 * Short Bio
  :PROPERTIES:
