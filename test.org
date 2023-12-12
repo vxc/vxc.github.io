@@ -1,0 +1,27 @@
+#+TITLE:  Venkatesh Choppella
+#+AUTHOR: VLEAD
+#+DATE: [2018-02-19 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+
+* Home
+#+include: "./home/home.org"
+* Students
+#+include: "./students/students.org"
+* Research
+#+include: "./research/research.org"
+* Teaching
+#+include: "./teaching/teaching.org"
+* Publications
+#+include: "./publications/publications.org"
+* Jobs
+#+include: "./jobs/job.org"
+* Contact-us
+#+include: "./contact-us/contact-us.org"
+
+
+
