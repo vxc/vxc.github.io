@@ -1,0 +1,54 @@
+Venkatesh Choppella is Associate Professor at the Indian
+Institute of Information Technology and Management --
+Kerala. Earlier he was also Adjunct Faculty at the Corporate
+Learning Centre at Tata Consultancy Services.  He holds a
+PhD. degree in Computer Science from Indiana University.  In
+the past he has held research and engineering positions in
+Hewlett Packard, Xerox Palo Alto Research Centre, Oak Ridge
+National Laboratory and the Ohio State University in the
+United States.
+
+Dr. Choppella's research interests are in programming language
+and software systems.  He has published in the area of automated
+deduction, type systems, formal methods, and compilers for high
+performance computing.  
+
+Two of the papers he co-authored have received the best
+paper awards at the Internation Conf. of High Performance
+Computing (HiPC) 2003 and The International Parallel and
+Distributed Processing Symposium (IPDPS) 2004.
+
+At IIITM-K he has been coordinating work in web-based
+collaborative systems for e-governance (see the portal
+www.tvmcitypolice.org), education in the Principles of
+Programming and research in bio-informatic models for
+information security.
+
+Recent Publications:
+--------------------
+
+Venkatesh Choppella, Arijit Sengupta, Edward Robertson, and
+Steven D. Johnson. Constructing and Validating
+Entity-Relationship models in the PVS Specification
+Language: A case study using a text-book example. Technical
+Report 632, Indiana University Computer Science, April 2006.
+
+V. Choppella and C. T. Haynes. Sourcetracking unification.
+Information and Computation 2005.  201(2):121-159.  Invited
+submission.
+
+Gerald Baumgartner, Alexander Auer, David E. Bernholdt, Alina
+Bibireata, Venkatesh Choppella, Daniel Cociorva, Xiaoyang Gao,
+Robert Harrison, So Hirata, Sriram Krishanmoorthy, Sandhya
+Krishnan, Chi-Chung Lam, Marcel Nooijen, Russell Pitzer,
+J. Ramanujam, P. Sadayappan, and Alexander Sibiryakov. Synthesis
+if high-performance parallel programs for a class of ab initio
+quantum chemistry models. Proc. of the IEEE, 93(2):276-292,
+February 2005. Invited submission.
+
+Venkatesh Choppella. Polymorphic type reconstruction using type
+equations.  Implementation of Functional Languages: 15th
+International Workshop, IFL 2003, Edinburgh, UK, September 8-11,
+2003. Revised Papers.  Editors: Phil Trinder, Greg Michaelson,
+Ricardo Pena. Lecture Notes in Computer Science. (LNCS) Vol 3145
+Springer, 2004. pp 53-68.

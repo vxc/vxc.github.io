@@ -1,0 +1,129 @@
+#+title:  Venkatesh Choppella
+#+SETUPFILE: ./org-templates/level-0.org
+
+* Menu
+ :PROPERTIES:
+   :HTML_CONTAINER_CLASS: menu
+   :CUSTOM_ID: menu
+ :END:
+  - [[./index.org][home]]
+  - [[./research/index.org][research]]
+  - [[./teaching/index.org][teaching]]
+  - [[./biography/index.org][biography]]
+  - [[./contact/index.org][contact]]
+  - [[./calendar/index.org][calendar]]
+
+#+ATTR_HTML: :alt pic :title venkatesh :align left :width 200%
+[[./images/venk-poovar-cropped.jpg]]
+
+* Main
+ :PROPERTIES:
+   :HTML_CONTAINER_CLASS: main
+   :CUSTOM_ID: main
+ :END:
+
+*Associate Professor* at the International
+Institute of Information Technology, Hyderabad,
+India.
+
+** Education
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: heading
+    :CUSTOM_ID:   edu
+  :END:
+  - BTech Computer Science and Engg.:  IIT Kanpur 1985
+
+
+  - MTech Computer Science and Engg.:  IIT Madras 1987
+
+
+  - PhD   Computer Science:  Indiana University,
+    Bloomington, USA, 2002
+
+
+** Interests
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: heading
+    :CUSTOM_ID:   interests
+  :END:
+
+  -  Computer Science :: Programming Languages.  Functional
+       Programming.  Type systems.  Concurrency.
+
+
+  -  Software Engineering :: Software Architectures. Formal
+       Methods and Verification.  Web security and
+       accessibility.  
+
+
+  -  Education and  Technology :: Programming Principles.
+       Information Technology Workshop.  [[http://vlab.co.in][Virtual Labs]].
+
+
+  -  FOSS :: Free and Open Source Software in Education and
+       E-Governance.
+
+
+* [[./fp-poem.org][Functional Programming for no Rhyme or Reason]]
+
+
+*  Announcements
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: announcements
+    :CUSTOM_ID:   announce
+  :END:
+** Spring 2020: BTech, MTech Student projects/internships in Virtual Labs:
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: announcement
+    :CUSTOM_ID:   vlabs-announce
+  :END:
+   - Please visit [[http://dev.vlabs.ac.in/2020-student-projects/][dev.vlabs.ac.in]] for projects in Virtual
+     Labs
+  
+   - For projects in S/W Engg., Programming Languages, and
+     virtual labs, please visit [[./projects.org][this link]].
+
+
+** COMMENT 20-Mar-2018: Student positions in Virtual Labs
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: announcement
+    :CUSTOM_ID:   vlabs-announce
+  :END:
+ There are several MS by Research, summer and semester
+ internships, BTP and MTech project openings in virtual
+ labs.  Details at [[http://dev.vlabs.ac.in/2018-student-positions/][dev.vlabs.ac.in]].
+
+** COMMENT 28-Mar-2018: [[https://coggle.it/diagram/WrsyksGZi593H645/t/serc][SERC mindmap]] presented to prospective Dual Degree students 
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: announcement
+    :CUSTOM_ID:   serc-announce
+  :END:
+   
+
+
+
+
+** COMMENT [[http://sat-smt.in/][SAT+SMT 2018 @ IIIT Hyderabad, 6-8 December]]
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: announcement
+    :CUSTOM_ID:   sat-smt-announce
+  :END:
+    If you are interested in attending, please complete the
+    registration by Oct 10th by 2018. 
+
+   
+** COMMENT [[https://isoft.acm.org/isec2019/][ISEC 2019 @ Pune, 14-16 Feb 2019]]
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: announcement
+    :CUSTOM_ID:   isec-announce
+  :END:
+   Please submit a proposal/paper to
+   Tutorials/Tech-Briefings or any other track by Oct
+   20th 2018.
+
+** COMMENT [[https://groups.google.com/a/nptel.iitm.ac.in/forum/#!topic/local-chapter-announcement-forum/3bKN4rLSobw][T4E 2018 @ IIT Madras 10-13 December]]
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: announcement
+    :CUSTOM_ID:   t4e-announce
+  :END:
+  Please consider attending.

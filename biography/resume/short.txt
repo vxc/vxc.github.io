@@ -1,0 +1,109 @@
+Venkatesh Choppella
+
+Educational Background:
+----------------------
+
+Venkatesh is Associate Professor at the Indian Institute of
+Information Technology and Management -- Kerala, (IIITM-K) India,
+where he teaches computer science and information
+technology.  He holds a Master's and PhD. degree in Computer
+Science from Indiana University and a Bachelor's degree from
+the Indian Institute of Technology, Kanpur, India.  Before
+arriving at IIITM-K in 2003, he held research and
+engineering positions in Hewlett Packard, Xerox Palo Alto
+Research Centre, Oak Ridge National Laboratory in the United
+States.
+
+Research Interests
+------------------
+
+Venkatesh's research interests are in programming languages
+and software systems.  He has also worked in aspect oriented
+programming, compilers for scientific computing, formal
+methods, programming language type systems, and automated
+deduction.
+
+Interests in Web application systems
+------------------------------------
+
+Venkatesh has been teaching web technologies at IIITM-K for
+the last few years.  His current interest in this area is in
+building information management systems using light weight
+frameworks like Pantoto.  His goal is to develop a teaching
+pedagogy where students can build web applications
+incrementally and modularly from first principles.
+
+
+Interests in Programming Education
+----------------------------------
+
+Since 2006, T B Dinesh and Venkatesh have been engaged in
+renovating Programming education so that it teaches
+fundamentals concepts of programming in modern application
+contexts on various technology platforms like the web,
+mobile, embedded computing.
+
+Experience
+----------
+
+2003 - present:  Associate Professor of IT and Computer
+                 Science, IIITM-k, Kerala, India.
+
+2002 - 2003: Post Doctoral reseacher Oak Ridge National Lab.
+
+2001 - 2002: PhD candidate at Indiana University.
+
+2000 - 2001: Engineer at Hewlett Packard, working on web
+             services
+
+1999 - 2000: Research staff at Indiana University working on
+SOAP and XML protocols.
+
+1997 - 1999: Researcher and engineer at Xerox PARC working
+             on aspect oriented programming and product development. 
+
+1995 - 1997: Engineer at Derivation Systems, Inc, working on 
+theorem proving for hardware design.
+
+
+Relevat Publications and awards in IT and Computer Science
+----------------------------------------------------------
+
+Preliminary Explorations in Specifying and Validating
+Entity-Relationship Models in PVS, with A.Sengupta,
+E. L. Robertson and S.D.Johnson.  AFM~07, ACM Workshop on
+Applied Formal Methods, Nov 2007, Atlanta, USA.
+
+Requirements for and Evaluation of RMI Protocols for
+Scientific Computing with M. Govindaraju, A. Slomenski,
+R. Bramley and D. Gannon.  IEEE/ACM conference on
+SuperComputing (SC 2000).
+
+Source-tracking Unification.  with Christopher T.
+Haynes. Information and Computation Vol.~201 Issue 2, Sep
+2005.
+
+Web Services Conversation Language (WSCL) 1.0
+Hewlett-Packard Company,Web Services Conversation Language
+(WSCL) 1.0 group: A. Banerji, C. Bartolino, D. Beringer,
+V. Choppella, K. Govindarajan, A. Karp, H. Kuno, M. Lemon,
+G. Pogossiants, S. Sharma, S. Williams.  Web Consortium
+Note, Mar 2002.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

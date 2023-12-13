@@ -1,0 +1,155 @@
+#+title:  Venkatesh Choppella:  Research Interests
+
+* Background 
+** Degrees and Pedigree
+
+A BTech in CSE from IITK, MTech from IITM and a PhD in CSE from
+Indiana Univ. In my PhD I investigated automatic proof generation for
+Errors in type systems and term unification.  My advisor was Chris
+Haynes. 
+
+My interests in Programming Languages began at IITM where I studied
+the programming language ML, guided by Prof. C R Muthukrishnan.
+
+The department at IU was strong in Functional Programming in Scheme,
+and Programming language semantics and Logic.  That has influenced the
+way I think about programs and Software.  The other influence was
+static type systems and formal verification.
+
+** Industry
+
+I've done a few stints in the Industry.   Hands on with research
+technologies. 
+
+  - Derivation Systems (95-97) :: Worked at a NASA-funded startup.
+       Verified a transformation system for generating digital
+       circuits using PVS.  Actually got paid for proving theorems!
+
+
+  - Xerox Corporation (97-99) ::  Worked as part of the Aspect
+       Oriented Programming team at PARC.   Then moved to their
+       product division and worked with their forms-based products. 
+       
+  - Hewlett Packard :: Worked on building Java Web Services. 
+
+** Research Positions
+
+After my PhD I did switched to compliers for high performance
+computing.  This took me to Oak Ridge and Ohio State, where I was part
+of a team that built a compiler to transform tensor equations to
+Fortran(!).  This compiler was in the service of Chemistry researches
+doing ab initio quantum chemistry.  
+
+** Information Technology
+
+In 2003 I returned to India (IIITMK Thiruvananthapuram) to switch to
+Information Technology.  I plunged into /doing/ systems: everything
+from systems administration to networks and web applications and
+portals.
+
+The place was small, so we got to experiment a lot with teaching
+(E.g., in the networking course, the class got to study and rebuild
+the institute's firewall.)  I discovered new ways to teach Programming
+(Javascript and Scheme together.  Intro programming and Browser
+applications, in 2007).   
+
+In 2010 I moved to IIIT-H.   The atmosphere for research was great,
+and I got a chance to get back to many research areas that I had held
+at abeyance. 
+
+
+* Capsule Research Interests
+
+ - Programming Languages ::  Type systems, Program Transformation,
+      Applications of Process algebras to model workflows (Session
+      types).
+
+ - Formal Methods for S/W Engg ::  Component verification in Real-time
+      systems using model checkers like UPPAAL.  Theorem provers for
+      industrial use (Event B) .  Modeling of Web browser security
+      using Alloy.  Systematic and semantics based re-engineering and
+      transformation of code.
+
+ - Web Accessibility:: Web Re-narration (Alipi) and Semantic tweets.
+
+ - Pedagogy ::  Algo-dynamics, Functional Programming (Scheme plus
+                Javascript), Definitional interpreters for programming
+                languages.  
+
+ - Educational Technologies :: Virtual Labs design, development and
+      deployment.   
+
+
+* Current Research Interests
+** Computer Science
+
+In computer science, my main interest has centred around the study of
+Programming Languages.  For my PhD I worked on the problem of
+automatic proof generation of unification (CADE 2003, Information and
+Computation 2005) and their application to debugging errors in type
+systems (IFL 2003). 
+
+In the last few years, I have spent time trying to understand the
+structure of concurrency from a formal perspective.  I have studied
+CCS, Pi Calculus and Bisimulation.
+
+Rather than contribute to the theory of concurrency, my research
+interests are about their practical applications of process theory to
+diverse domains, often called Formal Methods.  Some of the application
+domains we have investigated are listed below.
+
+  - Human Computer Interaction :: My interest here is the formal
+       specification of interactive behaviour of devices, their use
+       cases and the user models of these devices.   We have
+       conducted  empirical studies on impact of changing interface
+       versus functionality (
+       interface versus See our recent
+       work in CHI 2014 about bisimulation models for user models. 
+
+  - Workflows :: The problem we have studied the specification of
+                 workflows and state based access control in these
+                 workflows.  We have presented models of workflows in
+                 Education (T4E 2012), and in E-governance
+                 (ICEGOV 2013).
+
+
+** Software Engineering
+
+Formal Methods for the specification and development of software.
+Understanding systems and processes. 
+
+*** HCI
+
+*** Web Security
+
+*** Component verification in embedded real time systems
+*** Workflow systems
+
+** Technology
+*** Educational Technologies
+Development and Engineering of Virtual Labs.  Evangelizing Open Source
+technologies, specially Emacs, Org-mode
+
+*** Web Accessibility
+
+*** Virtual Lab for Hindustani Classical Music
+
+Technologies to support  pedagogy for Hindustani Classical Music
+
+** Pedagogy
+
+- Principles of Programming
+
+- Principles of Programming Languages: EoPL
+
+- Functional Programming in Racket/Scheme
+
+- Ideas from Control Systems to Understand S/W Systems
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+#+TITLE:   Venkatesh Choppella Contact and Office Hours
+#+SETUPFILE: ../org-templates/level-1.org
+#+AUTHOR:    Venkatesh Choppella
+#+EMAIL:     venkatesh.choppella@iiit.ac.in
+
+* Menu
+ :PROPERTIES:
+   :HTML_CONTAINER_CLASS: menu
+   :CUSTOM_ID: menu
+ :END:
+
+  - [[../index.org][home]]
+  - [[../research/index.org][research]]
+  - [[../teaching/index.org][teaching]]
+  - [[../biography/index.org][biography]]
+  - [[../contact/index.org][contact]]
+  - [[../calendar/index.org][calendar]]
+
+
+* Main
+ :properties:
+   :HTML_CONTAINER_CLASS: main
+   :CUSTOM_ID: main
+ :end:
+
+* Office
+
+  - Location :: B5-205C, Software Engineering Research Centre
+
+
+  - Mail :: International Institute of
+            Information Technology Hyderabad,\\
+            Prof. C R Rao Road, Gachibowli\\
+            Hyderabad 500 032 INDIA
+
+
+  - Phone ::  +91-40-6653-1443 (work)\\
+       	      +91-40-6653-1157 (SERC office, Attn:
+       Ms. B. Pushpalatha, admin asst.)
+       
+  - Email ::  =venkatesh dot choppella at iiit dot ac dot
+       in=
+
+
+  - Home page ::  [[http://www.iiit.ac.in/~choppell]]
+
+
+*  Office Hours for 2018  Monsoon
+
+    - Fri 4-5pm :: Walk-in.
+
+At other times, please email to schedule an appointment.
+
+
+
+

@@ -1,0 +1,28 @@
+#+title: Venkatesh Choppella calendar
+#+SETUPFILE: ../org-templates/level-1.org
+
+* Menu
+ :PROPERTIES:
+   :HTML_CONTAINER_CLASS: menu
+   :CUSTOM_ID: menu
+ :END:
+
+  - [[../index.org][home]]
+  - [[../research/index.org][research]]
+  - [[../teaching/index.org][teaching]]
+  - [[../biography/index.org][biography]]
+  - [[../contact/index.org][contact]]
+  - [[../calendar/index.org][calendar]]
+
+
+* Calendar
+ :properties:
+   :html_container_class: main
+   :custom_id: main
+ :end:
+
+
+#+BEGIN_HTML
+<iframe src="https://www.google.com/calendar/embed?title=Venkatesh%20Calendar&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=srnjg8ps0gdj3142lbj2uha5f8%40group.calendar.google.com&amp;color=%230D7813&amp;src=32b97gqd6al5l6m5s3oi0fto1s%40group.calendar.google.com&amp;color=%23AB8B00&amp;src=el43um6kgp64loj9evbom5fslg%40group.calendar.google.com&amp;color=%235229A3&amp;src=doqq3bn4qljdluj8euud9rj2ro%40group.calendar.google.com&amp;color=%236E6E41&amp;src=choppell%40gmail.com&amp;color=%232952A3&amp;ctz=Asia%2FCalcutta" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>
+#+END_HTML
+
