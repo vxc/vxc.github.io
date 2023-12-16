@@ -26,21 +26,6 @@
 Institute of Information Technology, Hyderabad,
 India.
 
-** Education
-  :PROPERTIES:
-    :HTML_CONTAINER_CLASS: heading
-    :CUSTOM_ID:   edu
-  :END:
-  - BTech Computer Science and Engg.:  IIT Kanpur 1985
-
-
-  - MTech Computer Science and Engg.:  IIT Madras 1987
-
-
-  - PhD   Computer Science:  Indiana University,
-    Bloomington, USA, 2002
-
-
 ** Interests
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: heading
@@ -48,7 +33,7 @@ India.
   :END:
 
   -  Computer Science :: Programming Languages.  Functional
-       Programming.  Type systems.  Concurrency.
+    Programming.  Type systems.  Concurrency.
 
 
   -  Software Engineering :: Software Architectures. Formal
@@ -56,15 +41,11 @@ India.
        accessibility.  
 
 
-  -  Education and  Technology :: Programming Principles.
-       Information Technology Workshop.  [[http://vlab.co.in][Virtual Labs]].
+  -  Computer Science Education and Technology ::
+    Algodynamics.  [[http://vlab.co.in][Virtual Labs]].
 
 
-  -  FOSS :: Free and Open Source Software in Education and
-       E-Governance.
-
-
-* [[./fp-poem.org][Functional Programming for no Rhyme or Reason]]
+* COMMENT [[./fp-poem.org][Functional Programming for no Rhyme or Reason]]
 
 
 *  Announcements
@@ -72,16 +53,16 @@ India.
     :HTML_CONTAINER_CLASS: announcements
     :CUSTOM_ID:   announce
   :END:
-** Spring 2020: BTech, MTech Student projects/internships in Virtual Labs:
+** Spring 2024: BTech, MTech Student projects and internships in Virtual Labs:
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: announcement
     :CUSTOM_ID:   vlabs-announce
   :END:
-   - Please visit [[http://dev.vlabs.ac.in/2020-student-projects/][dev.vlabs.ac.in]] for projects in Virtual
+   - Please contact me if [[http://dev.vlabs.ac.in/2020-student-projects/][dev.vlabs.ac.in]] for projects in Virtual
      Labs
   
    - For projects in S/W Engg., Programming Languages, and
-     virtual labs, please visit [[./projects.org][this link]].
+     Virtual Labs, please visit [[./projects.org][this link]].
 
 
 ** COMMENT 20-Mar-2018: Student positions in Virtual Labs
