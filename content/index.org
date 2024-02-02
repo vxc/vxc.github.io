@@ -13,8 +13,6 @@
   - [[./contact/index.org][contact]]
   - [[./calendar/index.org][calendar]]
 
-#+ATTR_HTML: :alt pic :title venkatesh :align left :width 200%
-[[./images/venk-poovar-cropped.jpg]]
 
 * Main
  :PROPERTIES:
@@ -22,9 +20,13 @@
    :CUSTOM_ID: main
  :END:
 
+#+ATTR_HTML: :alt pic :title venkatesh :align right :width 40% :border-radius 20px
+[[./images/vxc_new.png]]
+
 *Associate Professor* at the International
 Institute of Information Technology, Hyderabad,
 India.
+
 
 ** Interests
   :PROPERTIES:

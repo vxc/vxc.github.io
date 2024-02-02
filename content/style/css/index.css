@@ -37,7 +37,9 @@ img.picture {
    display: block;
    margin-left: 0; /* auto; */
    margin-right:0; /* auto; */
-   height: 12em; 
+
+   border-radius: 20px;
+   height: 8em; 
 }
 
 ul.details>li {

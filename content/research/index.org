@@ -40,7 +40,7 @@
  :END:
 
  - Software Engineering and Formal Methods :: Concurrency
-      control \cite{2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al}, Distributed
+      control /cite{2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al}, Distributed
       Model Checking\cite{Singla-et-al-2016}, Real Time
       Systems\cite{Adimoolam-Choppella-2013}, Software and Systems
       Engineering\cite{2019-isec-chaudhuri-et-al, 2018-isec-banerjee-et-al,2018-incose-natarajan-et-al},
