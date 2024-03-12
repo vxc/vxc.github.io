@@ -25,31 +25,35 @@
 
 * Office
 
-  - Location :: B5-205C, Software Engineering Research Centre
+  - Location :: Software Engineering Research Centre
+    Himalaya D Block, 5th Floor, Room No. 501
 
 
-  - Mail :: International Institute of
-            Information Technology Hyderabad,\\
+  - Executive Assistant :: Sahiti Potnuru.  Please email her
+    for an appointment
+    (=sahiti.potnuru@research.iiit.ac.in=).
+	
+  - Street Address :: International Institute of Information
+    Technology Hyderabad,\\
             Prof. C R Rao Road, Gachibowli\\
             Hyderabad 500 032 INDIA
 
 
-  - Phone ::  +91-40-6653-1443 (work)\\
-       	      +91-40-6653-1157 (SERC office, Attn:
-       Ms. B. Pushpalatha, admin asst.)
        
-  - Email ::  =venkatesh dot choppella at iiit dot ac dot
-       in=
+  - Email ::  =venkatesh dot choppella at iiit dot ac dot in=
 
 
-  - Home page ::  [[http://www.iiit.ac.in/~choppell]]
+  - Home page ::  http://iiit.ac.in/~vxc
 
 
-*  Office Hours for 2018  Monsoon
+*  Office Hours for Spring 2024
 
-    - Fri 4-5pm :: Walk-in.
+  - Mondays: 4pm-5pm 501, Himalaya D Block or by
+    appointment.
 
-At other times, please email to schedule an appointment.
+
+
+
 
 
 
