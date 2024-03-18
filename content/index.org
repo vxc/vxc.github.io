@@ -37,7 +37,7 @@ Administrative Assistant: *Sahiti Potnuru*
     :HTML_CONTAINER_CLASS: announcements
     :CUSTOM_ID:   announce
   :END:
-** Spring and Summer 2024:  BTech and MTech Student projects internships in Virtual Labs for Operating 
+** Spring and Summer 2024:  BTech and MTech Student projects internships in Virtual Labs for Operating Systems
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: announcement
     :CUSTOM_ID:   vlabs-announce

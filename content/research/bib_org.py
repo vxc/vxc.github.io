@@ -73,21 +73,21 @@ def format_orgmode(entries):
     return '\n'.join(orgmode_entries)
 
 if __name__ == "__main__":
-    with open("vxc.bib", "r", encoding="utf-8") as f:
+    with open('./content/research/vxc.bib', "r", encoding="utf-8") as f:
         bibtex_content = f.read()
     
-    print("BibTeX content:")
-    print(bibtex_content)
+    # print("BibTeX content:")
+    # print(bibtex_content)
     
     entries = parse_bibtex(bibtex_content)
-    print(f"Number of entries parsed: {len(entries)}")
-    print("Parsed entries:")
-    for entry in entries:
-        print(entry)
+    print(f"Number of bib entries parsed: {len(entries)}")
+    # print("Parsed bib entries:")
+    # for entry in entries:
+    #     print(entry)
     
     orgmode_content = format_orgmode(entries)
-    print("Org-mode content:")
-    print(orgmode_content)
+    # print("Org-mode content:")
+    # print(orgmode_content)
 
-    with open("vxc.org", "w", encoding="utf-8") as f:
+    with open("./content/research/vxc.org", "w", encoding="utf-8") as f:
         f.write(orgmode_content)
