@@ -3,6 +3,7 @@
 #+AUTHOR:    Venkatesh Choppella
 #+EMAIL:     venkatesh.choppella@iiit.ac.in
 
+
 * Menu
  :PROPERTIES:
    :HTML_CONTAINER_CLASS: menu
@@ -33,57 +34,74 @@
    :CUSTOM_ID: main
  :END:
 
-* Areas of research
- :PROPERTIES:
-   :HTML_CONTAINER_CLASS: areas
-   :CUSTOM_ID: areas
- :END:
+* Research Interests
+  :PROPERTIES:
+    :HTML_CONTAINER_CLASS: interests
+    :CUSTOM_ID:   interests
+  :END:
 
- - Software Engineering and Formal Methods :: Concurrency
-      control /cite{2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al}, Distributed
-      Model Checking\cite{Singla-et-al-2016}, Real Time
-      Systems\cite{Adimoolam-Choppella-2013}, Software and Systems
-      Engineering\cite{2019-isec-chaudhuri-et-al, 2018-isec-banerjee-et-al,2018-incose-natarajan-et-al},
-      Human Computer
-      Interaction\cite{zade-choppella-ihci-2012,zade-et-al-chi-2014},
-      Workflows
-      \cite{dinesh-choppella-iceg-2010,Choppella-icdcit-2011,goel-choppella-t4e-2012,Goel-Choppella-icegov-2013},
-      Modeling of Web Services\cite{WSCL-2002}, Data
-      Modeling\cite{choppella-sengupta-robertson-johnson-tr-2006,choppella-et-al-afm07}
-      and Visual
-      modeling\cite{Choppella-Pulijala-ModSym-2015} and
-      Software
-      Architectures\cite{brahmajosyula-choppella-wambse-2011,brahmajosyula-choppella-journal-2011}. Formal
-      Methods for
-      VLSI\cite{Rath-Choppella-Johnson-1995,Bose-Tuna-Choppella-FMCAD-1996}
+  My current interests are in software architecture,
+  computer science education and educational technology.
 
- - Web Accessibility  ::
-      Renarration and Semantic
-      Web\cite{Aggarwal-2012,Dinesh-2012-AFR-2207016-2207030,Dinesh-2012-ATR-2207016-2207038,Gollapudi-Choppella-t4e-2013,Prasad-2014-ONA-2596695-2596711,Prasad-et-al-isec-2017,2017-iske-gollapudi-et-al},
-      \cite{DBLP-conf-seke-SanagavarapuGCR17,2018-icdcit-Prasad-et-al,2018-isec-prasad-et-al},
+  - Software Architecture :: In software architecture, I am
+    exploring the role of system dynamics in specifying
+    architectures, for large SaaS systems (with my PhD
+    student Mrityunjay Kumar, \cite{...})  and large scale
+    control systems (with my PhD student Amar Banerjee
+    \cite{...}).  I am also working on specifications of
+    concurrent systems (\cite{...}) and shared data
+    structures with my student Arjun Sanjeev (currently at
+    Google).
 
- - Web Security :: 
-      Browser-based security policies\cite{Alloy-Corp-Tech-2013,Telikicherla-Choppella-Bezawada-ICISS-2014,Telikicherla-2014-EDS-2593761-2593764,agrawall-et-al-isec-2017,telikicherla-et-al-icissp-2017,2017-ICISS-Agrawall-et-al}
+    Some of my previous works in this domain consists of Concurrency control [cite:2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al;], Distributed Model Checking\cite{Singla-et-al-2016}, Real Time Systems\cite{Adimoolam-Choppella-2013}, Software and Systems Engineering\cite{2019-isec-chaudhuri-et-al, 2018-isec-banerjee-et-al,2018-incose-natarajan-et-al}, Human Computer Interaction\cite{zade-choppella-ihci-2012,zade-et-al-chi-2014}, Workflows \cite{dinesh-choppella-iceg-2010,Choppella-icdcit-2011,goel-choppella-t4e-2012,Goel-Choppella-icegov-2013}, Modeling of Web Services\cite{WSCL-2002}, Data Modeling\cite{choppella-sengupta-robertson-johnson-tr-2006,choppella-et-al-afm07} and Visual modeling\cite{Choppella-Pulijala-ModSym-2015} and Software Architectures\cite{brahmajosyula-choppella-wambse-2011,brahmajosyula-choppella-journal-2011}. Formal Methods for VLSI\cite{Rath-Choppella-Johnson-1995,Bose-Tuna-Choppella-FMCAD-1996}
 
- - Applications of ICT ::  E-Governance\cite{choppella-srivathsan-icegov-2009}.
+  - Computing Education ::  My work is driven by the need to
+    develop a pedagogy of computing rooted in formal methods
+    and modelling.  Towards this goal, I am applying the
+    Mapcode formalism developed by my colleague K Viswanath
+    (\cite{...})  to undergraduate computing education.  Our
+    goal is to extend the mapcode approach to interactive
+    systems and applying engineering principles like
+    feedback control, leading to /Algodynamics/, a systems
+    view of computing \cite{...}.  I am currently working
+    with students to develop various interactive simulations
+    to demonstrate the design principles around
+    algodynamics.  You can find some of these simulations at
+    https://algodynamics.io.
 
- - Educational Technology and Computing Pedagogy :: Virtual
-   Labs\cite{2018-icalt-kumar-et-al, 2018-icalt-swain-et-al, bandi-et-al-t4e-2011,khot-choppella-t4e-2011,choppella-et-al-t4e-2011},\cite{malini-et-al-t4e-2012,Chatterjee-et-al-t4e-2013,2014-t4e-choudhary-et-al,2014-t4e-agarwal-et-al,Kelkar-et-al-icalt-2015,Ahuja-et-al-icalt-2015},
-   Authoring tools and
-   environments\cite{naidu-et-al-t4e-2010,Choppella-t4e-tutorial-2010,khare-et-al-t4e-2012},
-   Ontologies\cite{mavalankar-et-al-t4e-2015}.  Functional
-   Programming\cite{choppella-et-al-t4e-2012,Choppella-et-al-2016},
-   Algorithms and Discrete Dynamical
-   Systems\cite{Manjula-et-al-t4e-2013}.
+    
 
+  - Educational Technology :: I am the institute PI of
+    [[https://vlab.co.in][Virtual Labs]], a large
+    inter-institute project of the Ministry of Education,
+    India.
 
- - Compilers and Programming Languages :: Evaluation of RMI
-      protocols\cite{Govindaraju-et-al-Supercomputing-2000},
-      Algorithm Synthesis from Domain Specific
-      Languages\cite{Krishnan-et-al-HiPC-2003,Bibireata-et-al-LCPC-2004,Krishnan-et-al-IPDPS-2004,Baumgartner-ieee-2005,Auer-MolPhysics-2006,Hartono-et-al-iccs-2006,krishnan-et-al-jpdc-2006}.
-      Aspect-Oriented Programming\cite{1999-aop-patent}.
-      Term Unification\cite{Choppella-Haynes-CADE-2003,Choppella-Haynes-IC-2005},
-      Type Inference\cite{Choppella-Haynes-1995,Choppella-thesis-02,Choppella-IFL-2003}.
+	  + Systems Development :: IIIT's Virtual Labs
+        Engineering Architecture and Design group [[https://vlead.vlabs.ac.in][VLEAD]]
+        currently hosts the entire vlabs architecture and
+        systems for the entire country.  *I am looking for*
+        *students interested in systems development to
+        contribute*.   
+
+      + Experiment development :: My students and I have
+    developed several virtual lab experiments in Data
+    Structures (I and II: TODO: links) and are developing
+    experiments in [[https://bhargavi-hash.github.io/OS4all/][Operating Systems]].
+
+  - Compilers, Programming Languages and Formal Methods for Systems  :: I
+    have research interests in Programming Languages, Type
+    systems, Compilers and Concurrency and Verification
+    tools like model checkers and theorem provers.  I am
+    looking for students interested in working in these
+    areas.  The kind of problems I plan to look at are at
+    the intersection of programming languages, formal
+    methods, verification and systems.  If you're interested
+    in Functional programming, you may want to read
+    [[./fp-poem.org][Functional Programming for no Rhyme or
+    Reason]]. (This is NOT generated by ChatGPT!)
+
+    Few of my works in this domain include Evaluation of RMI protocols\cite{Govindaraju-et-al-Supercomputing-2000}, Algorithm Synthesis from Domain Specific Languages\cite{Krishnan-et-al-HiPC-2003,Bibireata-et-al-LCPC-2004,Krishnan-et-al-IPDPS-2004,Baumgartner-ieee-2005,Auer-MolPhysics-2006,Hartono-et-al-iccs-2006,krishnan-et-al-jpdc-2006}. Aspect-Oriented Programming\cite{1999-aop-patent}. Term Unification\cite{Choppella-Haynes-CADE-2003,Choppella-Haynes-IC-2005}, Type Inference\cite{Choppella-Haynes-1995,Choppella-thesis-02,Choppella-IFL-2003}.
+
 
 * Students
  :PROPERTIES:
@@ -249,10 +267,6 @@
  :PROPERTIES:
    :HTML_CONTAINER_CLASS: biblio
    :CUSTOM_ID: biblio
+   :HTML_CONTAINER_STYLE: font-size: 16px; color: black;
  :END:
-# #+BIBLIOGRAPHY: ref plain rev option:-d  option:-r option:-revkeys option:-dl option:-nokeywords option:-noabstract
-#+BIBLIOGRAPHY: all plain rev option:-d  option:-r option:-revkeys option:-dl option:-nokeywords option:-noabstract
-
-
-
-
+#+INCLUDE: "./vxc.org"

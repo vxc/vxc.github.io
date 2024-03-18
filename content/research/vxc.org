@@ -1,0 +1,601 @@
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella editor       = {Sujit Kumar Charkrabarti and Raghavan Komondoor and Raveendra Kumar Medicherla and Aseem Rastogi and Sudipto Ghosh title        = {Enhancing {MVC} architecture pattern description using its System. "Untitled". In Unknown journal, pp. 8:1--8:11, 2024. <a href="https://doi.org/10.1145/3641399.3641410">DOI: 10.1145/3641399.3641410</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>K. S. Viswanadh and Akshit Gureja and Nagesh Walchatwar and Rishabh Agrawal and Shiven Sinha and Sachin Chaudhari and Karthik Vaidhyanathan and Venkatesh Choppella and Prabhakar Bhimalapuram and Harikumar Kandath and Aftab M. Hussain title        = {Engineering End-to-End Remote Labs using IoT-based Retrofitting journal      = {CoRR volume       = {abs/2402.05466 year         = {2024 url          = {https://doi.org/10.48550/arXiv.2402.05466 doi          = {10.48550/ARXIV.2402.05466 eprinttype    = {arXiv eprint       = {2402.05466 timestamp    = {Wed, 14 Feb 2024 00:00:00 +0100 biburl       = {https://dblp.org/rec/journals/corr/abs-2402-05466.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Amar Banerjee and Venkatesh Choppella title        = {Knowledge Driven Synthesis Using Resource-Capability Semantics for Control Software Design journal      = {{IEEE} Access volume       = {11 pages        = {52527--52539 year         = {2023 url          = {https://doi.org/10.1109/ACCESS.2023.3277859 doi          = {10.1109/ACCESS.2023.3277859 timestamp    = {Thu, 15 Jun 2023 01:00:00 +0200 biburl       = {https://dblp.org/rec/journals/access/BanerjeeC23.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Brett A. Becker and Venkatesh Choppella title        = {{ACM} CompEd Resumes After Two-year Delay! journal      = {{ACM} {SIGCSE} Bull. volume       = {55 number       = {1 pages        = {6 year         = {2023 url          = {https://doi.org/10.1145/3584667.3584673 doi          = {10.1145/3584667.3584673 timestamp    = {Fri, 24 Feb 2023 00:00:00 +0100 biburl       = {https://dblp.org/rec/journals/sigcse/BeckerC23.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Andrew Luxton{-}Reilly and Michelle Craig and Venkatesh Choppella and BD Phatak title        = {CompEd 2023 Call for Papers journal      = {{ACM} {SIGCSE} Bull. volume       = {55 number       = {2 pages        = {7--8 year         = {2023 url          = {https://doi.org/10.1145/3607479.3607483 doi          = {10.1145/3607479.3607483 timestamp    = {Tue, 08 Aug 2023 01:00:00 +0200 biburl       = {https://dblp.org/rec/journals/sigcse/Luxton-ReillyCC23.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella editor       = {Venkatesh Choppella and Deepak B. Phatak and Andrew Luxton{-}Reilly and. "Is Transition Systems Approach of Modeling Software Systems Hard to". In Unknown journal, pp. 196, 2023. <a href="https://doi.org/10.1145/3617650.3624931">DOI: 10.1145/3617650.3624931</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella editor       = {Venkatesh Choppella and Deepak B. Phatak and Andrew Luxton{-}Reilly and. "Modeling Model-View-Controller {(MVC)} Architecture Pattern as System". In Unknown journal, pp. 197, 2023. <a href="https://doi.org/10.1145/3617650.3624934">DOI: 10.1145/3617650.3624934</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Pranav Vats and Venkatesh Choppella editor       = {Venkatesh Choppella and Deepak B. Phatak and Andrew Luxton{-}Reilly and. "Trace to Follow, Run to Explore: {A} Demonstration using Interactive". In Unknown journal, pp. 206, 2023. <a href="https://doi.org/10.1145/3617650.3624930">DOI: 10.1145/3617650.3624930</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella editor       = {Chitra Babu and Neeraj Goel and Amey Karkare title        = {Evaluating the difficulty for novice engineers in learning and using Transition Systems for modeling software systems booktitle    = {Proceedings of the 16th Annual {ACM} India Compute Conference, {COMPUTE}. "Untitled". In Unknown journal, pp. 19--24, 2023. <a href="https://doi.org/10.1145/3627217.3627223">DOI: 10.1145/3627217.3627223</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella editor       = {Sonali Agarwal and Abhik Roychoudhury and Rahul Purandare and Saurabh Tiwari and Lov Kumar title        = {A modeling language for novice engineers to design well at SaaS product companies booktitle    = {16th Innovations in Software Engineering Conference, ISEC2023, Allahabad, India, February 23-25, 2023 pages        = {24:1--24:5 publisher    = {{ACM year         = {2023 url          = {https://doi.org/10.1145/3578527.3578548 doi          = {10.1145/3578527.3578548 timestamp    = {Sat, 25 Feb 2023 00:00:00 +0100 biburl       = {https://dblp.org/rec/conf/indiaSE/KumarC23.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Unknown author. "Proceedings of the {ACM} Conference on Global Computing Education". In Unknown journal, pp. Unknown pages, 2023. <a href="https://doi.org/10.1145/3576882">DOI: 10.1145/3576882</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Unknown author. "Proceedings of the {ACM} Conference on Global Computing Education". In Unknown journal, pp. Unknown pages, 2023. <a href="https://doi.org/10.1145/3617650">DOI: 10.1145/3617650</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella title        = {Systems Modeling for novice engineers to comprehend software products better journal      = {CoRR volume       = {abs/2304.13294 year         = {2023 url          = {https://doi.org/10.48550/arXiv.2304.13294 doi          = {10.48550/ARXIV.2304.13294 eprinttype    = {arXiv eprint       = {2304.13294 timestamp    = {Wed, 03 May 2023 01:00:00 +0200 biburl       = {https://dblp.org/rec/journals/corr/abs-2304-13294.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella editor       = {Venkatesh Choppella and Amey Karkare and Chitra Babu and Sridhar Chimalakonda title        = {A study of the design and documentation skills of industry-ready {CS}. "Untitled". In Unknown journal, pp. 23--28, 2022. <a href="https://doi.org/10.1145/3561833.3561842">DOI: 10.1145/3561833.3561842</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>K. S. Viswanadh and O. Kathalkar and P. Vinzey and Nitin Nilesh and Sachin Chaudhari and Venkatesh Choppella editor       = {Muhammad Younas and Irfan Awan and Wenny Rahayu title        = {{CV} and IoT-based Remote Triggered Labs: Use Case of Conservation. "Untitled". In Unknown journal, pp. 100--106, 2022. <a href="https://doi.org/10.1109/FiCloud57274.2022.00021">DOI: 10.1109/FICLOUD57274.2022.00021</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Unknown author. "COMPUTE} 2022, Jaipur, India, November 9-11, 2022". In Unknown journal, pp. Unknown pages, 2022. <a href="https://doi.org/10.1145/3561833">DOI: 10.1145/3561833</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella title        = {A study of the design and documentation skills of industry-ready {CS}. "Untitled". In CoRR, pp. Unknown pages, 2022. <a href="https://doi.org/10.48550/arXiv.2212.04035">DOI: 10.48550/ARXIV.2212.04035</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Amar Banerjee and Subhrojyoti C. and Barnali B. and Dhankshinamoorthy R. and Rajesh N. and Venkatesh Choppella editor       = {Gao Cong and Maya Ramanath title        = {Knowledge Driven Approach to Auto-Generate Digital Twins for Industrial Plants booktitle    = {Proceedings of the {CIKM} 2021 Workshops co-located with 30th {ACM}. "Untitled". In Unknown journal, pp. Unknown pages, 2021. <a href="https://ceur-ws.org/Vol-3052/paper12.pdf">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Viswanath Kasturi and Mrityunjay Kumar title        = {Algodynamics: Algorithms as systems booktitle    = {{IEEE} Frontiers in Education Conference, {FIE} 2021, Lincoln, NE,. "Untitled". In Unknown journal, pp. 1--9, 2021. <a href="https://doi.org/10.1109/FIE49875.2021.9637441">DOI: 10.1109/FIE49875.2021.9637441</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Manoranjan Satpathy editor       = {Durga Prasad Mohapatra and Samaresh Mishra and Tony Clark and Alpana Dubey and Richa Sharma and Lov Kumar title        = {A Report on the PhD Symposium at {ISEC} 2021 booktitle    = {{ISEC} 2021: 14th Innovations in Software Engineering Conference,. "Untitled". In Unknown journal, pp. 24:1--24:2, 2021. <a href="https://doi.org/10.1145/3452383.3453713">DOI: 10.1145/3452383.3453713</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Lalit Mohan Sanagavarapu and Mrudhivka Damaraju and Ravi Shankar Pillutla and Venkatesh Choppella and Y. Raghu Reddy and Priya Raman editor       = {Marian Daun and Elke Hochm{\"{u}}ller and. "An {SE} approach for CoCo Learning of Virtual Labs". In Unknown journal, pp. 1--6, 2020. <a href="https://doi.org/10.1109/CSEET49119.2020.9206206">DOI: 10.1109/CSEET49119.2020.9206206</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Surya Teja Palavalasa and Yuvraj Singh and Adhish Singla and Suresh Purini and Venkatesh Choppella title        = {Model Checking as a Service using Dynamic Resource Scaling booktitle    = {27th {IEEE} International Conference on High Performance Computing,. "Untitled". In Unknown journal, pp. 131--140, 2020. <a href="https://doi.org/10.1109/HiPC50609.2020.00027">DOI: 10.1109/HIPC50609.2020.00027</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Arjun Sanjeev and Viswanath Kasturi and Bharat Jayaraman editor       = {Dang Van Hung and Meenakshi D'Souza title        = {Generalised Dining Philosophers as Feedback Control booktitle    = {Distributed Computing and Internet Technology - 16th International Conference, {ICDCIT} 2020, Bhubaneswar, India, January 9-12, 2020,. "Untitled". In Unknown journal, pp. 144--164, 2020. <a href="https://doi.org/10.1007/978-3-030-36987-3\_9">DOI: 10.1007/978-3-030-36987-3\_9</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Viswanath Kasturi and Mrityunjay Kumar and Ojas Mohril title        = {Algodynamics: Teaching Algorithms using Interactive Transition Systems journal      = {CoRR volume       = {abs/2010.10015 year         = {2020 url          = {https://arxiv.org/abs/2010.10015 eprinttype    = {arXiv eprint       = {2010.10015 timestamp    = {Mon, 26 Oct 2020 00:00:00 +0100 biburl       = {https://dblp.org/rec/journals/corr/abs-2010-10015.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gollapudi V. R. J. Sai Prasad and Venkatesh Choppella and Lalit Mohan Sanagavarapu and Sridhar Chimalakonda and Y. Raghu Reddy title        = {Promoting better financial inclusion through web page transformation - a systematic literature review journal      = {J. Bank. Financial Technol. volume       = {3 number       = {2 pages        = {131--147 year         = {2019 url          = {https://doi.org/10.1007/s42786-019-00010-0 doi          = {10.1007/S42786-019-00010-0 timestamp    = {Thu, 16 Sep 2021 01:00:00 +0200 biburl       = {https://dblp.org/rec/journals/jbft/PrasadCSCR19.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Subhrojyoti Roy Chaudhuri and Amar Banerjee and N. Swaminathan and Venkatesh Choppella and Arpan Pal and P. Balamurali editor       = {Ravindra Naik and Santonu Sarkar and Thomas T. Hildebrandt and Atul Kumar and Richa Sharma title        = {A knowledge centric approach to conceptualizing robotic solutions booktitle    = {Proceedings of the 12th Innovations on Software Engineering Conference (formerly known as India Software Engineering Conference), {ISEC}. "Untitled". In Unknown journal, pp. 12:1--12:11, 2019. <a href="https://doi.org/10.1145/3299771.3299782">DOI: 10.1145/3299771.3299782</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Aseem Rastogi editor       = {Ravindra Naik and Santonu Sarkar and Thomas T. Hildebrandt and Atul Kumar and Richa Sharma title        = {Tutorials and Technical Briefings at {ISEC} 2019 booktitle    = {Proceedings of the 12th Innovations on Software Engineering Conference (formerly known as India Software Engineering Conference), {ISEC}. "Untitled". In Unknown journal, pp. 33:1--33:2, 2019. <a href="https://doi.org/10.1145/3299771.3301648">DOI: 10.1145/3299771.3301648</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Subhrojyoti Roy Chaudhuri and Swaminathan Natarajan and Amar Banerjee and Venkatesh Choppella editor       = {Jeff Gray and Matti Rossi and Jonathan Sprinkle and Juha{-}Pekka Tolvanen title        = {Methodology to develop domain specific modeling languages booktitle    = {Proceedings of the 17th {ACM} {SIGPLAN} International Workshop on. "Untitled". In Unknown journal, pp. 1--10, 2019. <a href="https://doi.org/10.1145/3358501.3361235">DOI: 10.1145/3358501.3361235</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Venkatesh Choppella and Sanjana Sunil and Sumaid Syed editor       = {Maiga Chang and Ramkumar Rajendran and Kinshuk and Sahana Murthy and Venkatesh Kamat title        = {A Learnable-by-Design {(LEAD)} Model for Designing Experiments for. "Untitled". In Unknown journal, pp. 222--229, 2019. <a href="https://doi.org/10.1109/T4E.2019.00050">DOI: 10.1109/T4E.2019.00050</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Ravi Shankar Pillutla and Venkatesh Choppella and Lalit Mohan S. and Mrudhvika Dammaraju and Priya Raman editor       = {Maiga Chang and Ramkumar Rajendran and Kinshuk and Sahana Murthy and Venkatesh Kamat title        = {Enhancing Virtual Labs Usage in Colleges booktitle    = {Tenth {IEEE} International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 158--161, 2019. <a href="https://doi.org/10.1109/T4E.2019.00-31">DOI: 10.1109/T4E.2019.00-31</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Ravi Shankar Pillutla and Lalit Mohan S. and Venkatesh Choppella and Avni Jesrani and Priya Raman and Y. Raghu Reddy editor       = {Maiga Chang and Ramkumar Rajendran and Kinshuk and Sahana Murthy and Venkatesh Kamat title        = {Towards Massively Open Online Virtual Internships in Computing Education booktitle    = {Tenth {IEEE} International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 90--93, 2019. <a href="https://doi.org/10.1109/T4E.2019.00-44">DOI: 10.1109/T4E.2019.00-44</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Mrityunjay Kumar and Jessica Emory and Venkatesh Choppella editor       = {Maiga Chang and Nian{-}Shing Chen and. "Usability Analysis of Virtual Labs". In Unknown journal, pp. 238--240, 2018. <a href="https://doi.org/10.1109/ICALT.2018.00061">DOI: 10.1109/ICALT.2018.00061</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Lalit Mohan Sanagavarapu and Venkatesh Choppella and Y. Raghu Reddy editor       = {Maiga Chang and Nian{-}Shing Chen and. "Model Driven Approach for Virtual Lab Authoring - Chemical Sciences". In Unknown journal, pp. 241--243, 2018. <a href="https://doi.org/10.1109/ICALT.2018.00062">DOI: 10.1109/ICALT.2018.00062</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gollapudi V. R. J. Sai Prasad and Venkatesh Choppella and Sridhar Chimalakonda editor       = {Atul Negi and Raj Bhatnagar and Laxmi Parida title        = {A Style Sheets Based Approach for Semantic Transformation of Web Pages booktitle    = {Distributed Computing and Internet Technology - 14th International Conference, {ICDCIT} 2018, Bhubaneswar, India, January 11-13, 2018,. "Untitled". In Unknown journal, pp. 240--255, 2018. <a href="https://doi.org/10.1007/978-3-319-72344-0\_20">DOI: 10.1007/978-3-319-72344-0\_20</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Amar Banerjee and Venkatesh Choppella and Viswanath Kasturi and Swaminathan Natarajan and Padmalata V. Nistala and Kesav V. Nori editor       = {Y. Raghu Reddy and Vasudeva Varma and Jane Cleland{-}Huang and. "An Attempt at Explicating the Relationship between Knowledge, Systems". In Unknown journal, pp. 5:1--5:11, 2018. <a href="https://doi.org/10.1145/3172871.3172875">DOI: 10.1145/3172871.3172875</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gollapudi V. R. J. Sai Prasad and Sridhar Chimalakonda and Venkatesh Choppella editor       = {Y. Raghu Reddy and Vasudeva Varma and Jane Cleland{-}Huang and. "Towards a Domain-Specific Language for the Renarration of Web Pages". In Unknown journal, pp. 3:1--3:10, 2018. <a href="https://doi.org/10.1145/3172871.3172873">DOI: 10.1145/3172871.3172873</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Viswanath Kasturi and Arjun Sanjeev title        = {Generalised Dining Philosophers as Feedback Control journal      = {CoRR volume       = {abs/1805.02010 year         = {2018 url          = {http://arxiv.org/abs/1805.02010 eprinttype    = {arXiv eprint       = {1805.02010 timestamp    = {Mon, 13 Aug 2018 01:00:00 +0200 biburl       = {https://dblp.org/rec/journals/corr/abs-1805-02010.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Akash Agrawall and Shubh Maheshwari and Projit Bandyopadhyay and Venkatesh Choppella editor       = {Rudrapatna K. Shyamasundar and Virendra Singh and Jaideep Vaidya title        = {Modelling and Mitigation of Cross-Origin Request Attacks on Federated Identity Management Using Cross Origin Request Policy booktitle    = {Information Systems Security - 13th International Conference, {ICISS}. "Untitled". In Unknown journal, pp. 263--282, 2017. <a href="https://doi.org/10.1007/978-3-319-72598-7\_16">DOI: 10.1007/978-3-319-72598-7\_16</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Krishna Chaitanya Telikicherla and Akash Agrawall and Venkatesh Choppella editor       = {Paolo Mori and Steven Furnell and Olivier Camp title        = {A Formal Model of Web Security Showing Malicious Cross Origin Requests and Its Mitigation using {CORP booktitle    = {Proceedings of the 3rd International Conference on Information Systems Security and Privacy, {ICISSP} 2017, Porto, Portugal, February 19-21,. "Untitled". In Unknown journal, pp. 516--523, 2017. <a href="https://doi.org/10.5220/0006261105160523">DOI: 10.5220/0006261105160523</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gollapudi V. R. J. Sai Prasad and Venkatesh Choppella editor       = {Sivaji Bandyopadhyay title        = {Notion of Semantics in Computer Science - {A} Systematic Literature. "Untitled". In Unknown journal, pp. 513--522, 2017. <a href="https://aclanthology.org/W17-7562/">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Akash Agrawall and Krishna Chaitanya and Arnav Kumar Agrawal and Venkatesh Choppella editor       = {Ravi Prakash Gorthi and Santonu Sarkar and Nenad Medvidovic and Vinay Kulkarni and Atul Kumar and Padmaja Joshi and Paola Inverardi and Ashish Sureka and Richa Sharma title        = {Mitigating Browser-based DDoS Attacks using {CORP booktitle    = {Proceedings of the 10th Innovations in Software Engineering Conference, {ISEC} 2017, Jaipur, India, February 5-7, 2017 pages        = {137--146 publisher    = {{ACM year         = {2017 url          = {http://dl.acm.org/citation.cfm?id=3021477 timestamp    = {Wed, 06 Mar 2019 07:55:50 +0100 biburl       = {https://dblp.org/rec/conf/indiaSE/AgrawallCAC17.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gollapudi V. R. J. Sai Prasad and Sridhar Chimalakonda and Venkatesh Choppella and Y. Raghu Reddy editor       = {Ravi Prakash Gorthi and Santonu Sarkar and Nenad Medvidovic and Vinay Kulkarni and Atul Kumar and Padmaja Joshi and Paola Inverardi and Ashish Sureka and Richa Sharma title        = {An Aspect Oriented Approach for Renarrating Web Content booktitle    = {Proceedings of the 10th Innovations in Software Engineering Conference, {ISEC} 2017, Jaipur, India, February 5-7, 2017 pages        = {56--65 publisher    = {{ACM year         = {2017 url          = {http://dl.acm.org/citation.cfm?id=3021466 timestamp    = {Mon, 09 Jan 2017 00:00:00 +0100 biburl       = {https://dblp.org/rec/conf/indiaSE/PrasadCCR17.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Lalit Mohan S. and Priya Raman and Venkatesh Choppella and Y. Raghu Reddy editor       = {Ravi Prakash Gorthi and Santonu Sarkar and Nenad Medvidovic and Vinay Kulkarni and Atul Kumar and Padmaja Joshi and Paola Inverardi and Ashish Sureka and Richa Sharma title        = {A Crowdsourcing Approach for Quality Enhancement of eLearning Systems booktitle    = {Proceedings of the 10th Innovations in Software Engineering Conference, {ISEC} 2017, Jaipur, India, February 5-7, 2017 pages        = {188--194 publisher    = {{ACM year         = {2017 url          = {http://dl.acm.org/citation.cfm?id=3021483 timestamp    = {Mon, 09 Jan 2017 00:00:00 +0100 biburl       = {https://dblp.org/rec/conf/indiaSE/SRCR17.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gollapudi V. R. J. Sai Prasad and Maddala Saraswati Soumya and Venkatesh Choppella editor       = {Tianrui Li and Luis Mart{\'{\i}}nez{-}L{\'{o}}pez and. "Renarrating web pages for improving information accessibility". In Unknown journal, pp. 1--8, 2017. <a href="https://doi.org/10.1109/ISKE.2017.8258772">DOI: 10.1109/ISKE.2017.8258772</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Lalit Sanagavarapu and Sai Gollapudi and Sridhar Chimalakonda and Y. Raghu Reddy and Venkatesh Choppella editor       = {Xudong He title        = {A Lightweight Approach for Evaluating Sufficiency of Ontologies booktitle    = {The 29th International Conference on Software Engineering and Knowledge Engineering, Wyndham Pittsburgh University Center, Pittsburgh, PA, USA, July 5-7, 2017 pages        = {557--561 publisher    = {{KSI} Research Inc. and Knowledge Systems Institute Graduate School year         = {2017 url          = {https://doi.org/10.18293/SEKE2017-185 doi          = {10.18293/SEKE2017-185 timestamp    = {Tue, 21 Mar 2023 00:00:00 +0100 biburl       = {https://dblp.org/rec/conf/seke/SanagavarapuGCR17.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Adhish Singla and Krishnaji Desai and Suresh Purini and Venkatesh Choppella editor       = {Riqing Chen and Chunming Rong and Dan Grigoras title        = {Distributed Safety Verification Using Vertex Centric Programming Model booktitle    = {15th International Symposium on Parallel and Distributed Computing, {ISPDC} 2016, Fuzhou, China, July 8-10, 2016 pages        = {114--120 publisher    = {{IEEE} Computer Society year         = {2016 url          = {https://doi.org/10.1109/ISPDC.2016.23 doi          = {10.1109/ISPDC.2016.23 timestamp    = {Fri, 24 Mar 2023 00:00:00 +0100 biburl       = {https://dblp.org/rec/conf/ispdc/SinglaDPC16.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Garima Ahuja and Aditi Mavalankar title        = {How Does a Program Run? {A} Visual Model Based on Annotating Abstract. "Untitled". In Unknown journal, pp. 38--42, 2016. <a href="https://doi.org/10.1109/LaTiCE.2016.40">DOI: 10.1109/LATICE.2016.40</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Phillip G. Bradford and Venkatesh Choppella title        = {Fast point-to-point Dyck constrained shortest paths on a {DAG} (Extended. "Untitled". In Unknown journal, pp. 1--7, 2016. <a href="https://doi.org/10.1109/UEMCON.2016.7777894">DOI: 10.1109/UEMCON.2016.7777894</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Garima Ahuja and Anubha Gupta and Harsh Wardhan and Venkatesh Choppella editor       = {Demetrios G. Sampson and Ronghuai Huang and Gwo{-}Jen Hwang and. "Assessing the Impact of Virtual Labs: {A} Case Study with the Lab". In Unknown journal, pp. 290--292, 2015. <a href="https://doi.org/10.1109/ICALT.2015.41">DOI: 10.1109/ICALT.2015.41</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Tejaswinee Kelkar and Anon Ray and Venkatesh Choppella editor       = {Demetrios G. Sampson and Ronghuai Huang and Gwo{-}Jen Hwang and. "SangeetKosh: An Open Web Platform for Music Education". In Unknown journal, pp. 5--9, 2015. <a href="https://doi.org/10.1109/ICALT.2015.102">DOI: 10.1109/ICALT.2015.102</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Aditi Mavalankar and Tejaswinee Kelkar and Venkatesh Choppella editor       = {Venkatesh Choppella and Sridhar Iyer and Kinshuk title        = {Generation of Quizzes and Solutions Based on Ontologies - {A} Case. "Untitled". In Unknown journal, pp. 73--76, 2015. <a href="https://doi.org/10.1109/T4E.2015.16">DOI: 10.1109/T4E.2015.16</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Unknown author. "Seventh {IEEE} International Conference on Technology for Education". In Unknown journal, pp. Unknown pages, 2015. <a href="https://ieeexplore.ieee.org/xpl/conhome/7395548/proceeding">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Himanshu Zade and Santosh Arvind Adimoolam and Sai Gollapudi and Anind K. Dey and Venkatesh Choppella editor       = {Matt Jones and Philippe A. Palanque and Albrecht Schmidt and Tovi Grossman title        = {Edit distance modulo bisimulation: a quantitative measure to study evolution of user models booktitle    = {{CHI} Conference on Human Factors in Computing Systems, CHI'14, Toronto,. "Untitled". In Unknown journal, pp. 1757--1766, 2014. <a href="https://doi.org/10.1145/2556288.2557191">DOI: 10.1145/2556288.2557191</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Krishna Chaitanya Telikicherla and Venkatesh Choppella and Bruhadeshwar Bezawada editor       = {Atul Prakash and Rudrapatna K. Shyamasundar title        = {{CORP:} {A} Browser Policy to Mitigate Web Infiltration Attacks booktitle    = {Information Systems Security - 10th International Conference, {ICISS}. "Untitled". In Unknown journal, pp. 277--297, 2014. <a href="https://doi.org/10.1007/978-3-319-13841-1\_16">DOI: 10.1007/978-3-319-13841-1\_16</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Krishna Chaitanya Telikicherla and Venkatesh Choppella editor       = {Biplav Srivastava and Neeta Verma title        = {Enabling the development of safer mashups for open data booktitle    = {Proceedings of the 1st International Workshop on Inclusive Web Programming - Programming on the Web with Open Data for Societal Applications, {IWP} 2014, Hyderabad, India, June 1, 2014 pages        = {8--15 publisher    = {{ACM year         = {2014 url          = {https://doi.org/10.1145/2593761.2593764 doi          = {10.1145/2593761.2593764 timestamp    = {Tue, 06 Nov 2018 00:00:00 +0100 biburl       = {https://dblp.org/rec/conf/icse/TelikicherlaC14.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Jatin Agarwal and Utkarsh Rastogiy and Prateek Pandey and Nurendra Choudhary and Venkatesh Choppella and Raghu Reddy editor       = {Kinshuk and Sahana Murthy title        = {Large Scale Web Page Optimization of Virtual Labs booktitle    = {Sixth {IEEE} International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 146--147, 2014. <a href="https://doi.org/10.1109/T4E.2014.51">DOI: 10.1109/T4E.2014.51</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Nurendra Choudhary and Venkatesh Choppella and Raghu Reddy and Thirumal Ravula editor       = {Kinshuk and Sahana Murthy title        = {Any Time Virtual Labs: On Portable Media and as Debian Packages booktitle    = {Sixth {IEEE} International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 28--31, 2014. <a href="https://doi.org/10.1109/T4E.2014.9">DOI: 10.1109/T4E.2014.9</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gollapudi V. R. J. Sai Prasad and T. B. Dinesh and Venkatesh Choppella editor       = {Jeffrey P. Bigham and Yevgen Borodin and Lu{\'{\i}}s Carri{\c{c}}o title        = {Overcoming the new accessibility challenges using the sweet framework booktitle    = {International Web for All Conference, {W4A} '14, Seoul, Republic of. "Untitled". In Unknown journal, pp. 22:1--22:4, 2014. <a href="https://doi.org/10.1145/2596695.2596711">DOI: 10.1145/2596695.2596711</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Deepti Aggarwal and Rohit Ashok Khot and Venkatesh Choppella editor       = {Wendy E. Mackay and Stephen A. Brewster and Susanne B{\o}dker title        = {Power of friends: when friends guess about their friends' guess booktitle    = {2013 {ACM} {SIGCHI} Conference on Human Factors in Computing Systems,. "Untitled". In Unknown journal, pp. 907--912, 2013. <a href="https://doi.org/10.1145/2468356.2468518">DOI: 10.1145/2468356.2468518</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Ankur Goel and Venkatesh Choppella editor       = {Jeanne Holm and Tomasz Janowski title        = {State based access control for open e-governance booktitle    = {7th International Conference on Theory and Practice of Electronic Governance, {ICEGOV} '13, Seoul, Republic of Korea, October 22-25,. "Untitled". In Unknown journal, pp. 19--27, 2013. <a href="https://doi.org/10.1145/2591888.2591892">DOI: 10.1145/2591888.2591892</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Viswanath Kasturi and Manjula Pidaparty editor       = {Kinshuk and Sridhar Iyer title        = {Viewing Algorithms as Iterative Systems and Plotting Their Dynamic Behaviour booktitle    = {2013 {IEEE} Fifth International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 206--209, 2013. <a href="https://doi.org/10.1109/T4E.2013.56">DOI: 10.1109/T4E.2013.56</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gollapudi V. R. J. Sai Prasad and Venkatesh Choppella editor       = {Kinshuk and Sridhar Iyer title        = {Descriptive Study of College Bound Rural Youth of AP, India booktitle    = {2013 {IEEE} Fifth International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 76--79, 2013. <a href="https://doi.org/10.1109/T4E.2013.27">DOI: 10.1109/T4E.2013.27</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Himanshu Zade and Venkatesh Choppella title        = {Functionality or user interface: Which is easier to learn when changed? booktitle    = {4th International Conference on Intelligent Human Computer Interaction, {IHCI} 2012, Kharagpur, India, December 27-29, 2012 pages        = {1--6 publisher    = {{IEEE year         = {2012 url          = {https://doi.org/10.1109/IHCI.2012.6481829 doi          = {10.1109/IHCI.2012.6481829 timestamp    = {Mon, 01 May 2023 01:00:00 +0200 biburl       = {https://dblp.org/rec/conf/ihci/ZadeC12.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Hitesh Kumar and Manjula Pidaparty and Viswanath Kasturi editor       = {Sahana Murthy and Demetrios G. Sampson title        = {From High-School Algebra to Computing through Functional Programming booktitle    = {2012 {IEEE} Fourth International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 180--183, 2012. <a href="https://doi.org/10.1109/T4E.2012.42">DOI: 10.1109/T4E.2012.42</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Ankur Goel and Venkatesh Choppella editor       = {Sahana Murthy and Demetrios G. Sampson title        = {Algebraic Modelling of Educational Workflows booktitle    = {2012 {IEEE} Fourth International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 153--156, 2012. <a href="https://doi.org/10.1109/T4E.2012.60">DOI: 10.1109/T4E.2012.60</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Sankalp Khare and Yishan Misra and Venkatesh Choppella editor       = {Sahana Murthy and Demetrios G. Sampson title        = {Using Org-mode and Subversion for Managing and Publishing Content in Computer Science Courses booktitle    = {2012 {IEEE} Fourth International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 220--223, 2012. <a href="https://doi.org/10.1109/T4E.2012.58">DOI: 10.1109/T4E.2012.58</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>T. B. Dinesh and Venkatesh Choppella editor       = {Markel Vigo and Julio Abascal and Rui Lopes and Paola Salomoni title        = {Alipi: tools for a re-narration web booktitle    = {International Cross-Disciplinary Conference on Web Accessibility, {W4A} '12, Lyon, France, April 16-17, 2012 pages        = {29 publisher    = {{ACM year         = {2012 url          = {https://doi.org/10.1145/2207016.2207038 doi          = {10.1145/2207016.2207038 timestamp    = {Tue, 06 Nov 2018 00:00:00 +0100 biburl       = {https://dblp.org/rec/conf/w4a/DineshC12.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>T. B. Dinesh and Susan M. {\"{U}}sk{\"{u}}darli and. "Alipi: a framework for re-narrating web pages". In Unknown journal, pp. 22, 2012. <a href="https://doi.org/10.1145/2207016.2207030">DOI: 10.1145/2207016.2207030</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Krishna Chaitanya Bandi and Aditya Kiran Nori and Venkatesh Choppella and Sandhya Kode title        = {A Virtual Laboratory for Teaching Linux on the Web booktitle    = {2011 {IEEE} International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 212--215, 2011. <a href="https://doi.org/10.1109/T4E.2011.41">DOI: 10.1109/T4E.2011.41</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Vamsi Krishna Brahmajosyula and Medhamsh Vutpala and Sukant Kole title        = {Process Models for Virtual Lab Development, Deployment and Distribution booktitle    = {2011 {IEEE} International Conference on Technology for Education,. "Untitled". In Unknown journal, pp. 293--294, 2011. <a href="https://doi.org/10.1109/T4E.2011.61">DOI: 10.1109/T4E.2011.61</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Rohit Ashok Khot and Venkatesh Choppella title        = {{DISCOVIR:} {A} Framework for Designing Interfaces and Structuring. "Untitled". In Unknown journal, pp. 121--127, 2011. <a href="https://doi.org/10.1109/T4E.2011.27">DOI: 10.1109/T4E.2011.27</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Thulasi Ram Naidu and Manisha Verma and Venkatesh Choppella and Gangadhar Chalapakay title        = {Synthesizing customizable learning environments booktitle    = {2010 International Conference on Technology for Education, {T4E} 2010,. "Untitled". In Unknown journal, pp. 122--129, 2010. <a href="https://doi.org/10.1109/T4E.2010.5550047">DOI: 10.1109/T4E.2010.5550047</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and K. R. Srivathsan editor       = {Tomasz Janowski and Jim Davies title        = {Fostering community interaction through the Trivandrum City Police Portal booktitle    = {{ICEGOV} 2009, Proceedings of the 3rd International Conference on. "Untitled". In Unknown journal, pp. 365--368, 2009. <a href="https://doi.org/10.1145/1693042.1693119">DOI: 10.1145/1693042.1693119</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Sandhya Krishnan and Sriram Krishnamoorthy and Gerald Baumgartner and Chi{-}Chung Lam and. "Efficient synthesis of out-of-core algorithms using a nonlinear optimization". In J. Parallel Distributed Comput., pp. 659--673, 2006. <a href="https://doi.org/10.1016/j.jpdc.2005.06.017">DOI: 10.1016/J.JPDC.2005.06.017</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Albert Hartono and Qingda Lu and Xiaoyang Gao and Sriram Krishnamoorthy and Marcel Nooijen and Gerald Baumgartner and David E. Bernholdt and Venkatesh Choppella and Russell M. Pitzer and J. Ramanujam and Atanas Rountev and P. Sadayappan editor       = {Vassil N. Alexandrov and G. Dick van Albada and Peter M. A. Sloot and Jack J. Dongarra title        = {Identifying Cost-Effective Common Subexpressions to Reduce Operation Count in Tensor Contraction Evaluations booktitle    = {Computational Science - {ICCS} 2006, 6th International Conference,. "Untitled". In Unknown journal, pp. 267--275, 2006. <a href="https://doi.org/10.1007/11758501\_39">DOI: 10.1007/11758501\_39</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Christopher T. Haynes title        = {Source-tracking unification journal      = {Inf. Comput. volume       = {201 number       = {2 pages        = {121--159 year         = {2005 url          = {https://doi.org/10.1016/j.ic.2004.10.013 doi          = {10.1016/J.IC.2004.10.013 timestamp    = {Fri, 12 Feb 2021 00:00:00 +0100 biburl       = {https://dblp.org/rec/journals/iandc/ChoppellaH05.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Gerald Baumgartner and Alexander A. Auer and David E. Bernholdt and Alina Bibireata and Venkatesh Choppella and Daniel Cociorva and Xiaoyang Gao and Robert J. Harrison and So Hirata and Sriram Krishnamoorthy and Sandhya Krishnan and Chi{-}Chung Lam and. "Synthesis of High-Performance Parallel Programs for a Class of ab". In Proc. {IEEE, pp. 276--292, 2005. <a href="https://doi.org/10.1109/JPROC.2004.840311">DOI: 10.1109/JPROC.2004.840311</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Sandhya Krishnan and Sriram Krishnamoorthy and Gerald Baumgartner and Chi{-}Chung Lam and. "Efficient Synthesis of Out-of-Core Algorithms Using a Nonlinear Optimization". In Unknown journal, pp. Unknown pages, 2004. <a href="https://doi.org/10.1109/IPDPS.2004.1302948">DOI: 10.1109/IPDPS.2004.1302948</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella and Christopher T. Haynes editor       = {Franz Baader title        = {Source-Tracking Unification booktitle    = {Automated Deduction - CADE-19, 19th International Conference on Automated Deduction Miami Beach, FL, USA, July 28 - August 2, 2003, Proceedings series       = {Lecture Notes in Computer Science volume       = {2741 pages        = {458--472 publisher    = {Springer year         = {2003 url          = {https://doi.org/10.1007/978-3-540-45085-6\_39 doi          = {10.1007/978-3-540-45085-6\_39 timestamp    = {Tue, 14 May 2019 10:00:39 +0200 biburl       = {https://dblp.org/rec/conf/cade/ChoppellaH03.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Sandhya Krishnan and Sriram Krishnamoorthy and Gerald Baumgartner and Daniel Cociorva and Chi{-}Chung Lam and. "Data Locality Optimization for Synthesis of Efficient Out-of-Core". In Unknown journal, pp. 406--417, 2003. <a href="https://doi.org/10.1007/978-3-540-24596-4\_44">DOI: 10.1007/978-3-540-24596-4\_44</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Venkatesh Choppella editor       = {Philip W. Trinder and Greg Michaelson and Ricardo Pena title        = {Polymorphic Type Reconstruction Using Type Equations booktitle    = {Implementation of Functional Languages, 15th International Workshop, {IFL} 2003, Edinburgh, UK, September 8-11, 2003, Revised Papers series       = {Lecture Notes in Computer Science volume       = {3145 pages        = {53--68 publisher    = {Springer year         = {2003 url          = {https://doi.org/10.1007/978-3-540-27861-0\_4 doi          = {10.1007/978-3-540-27861-0\_4 timestamp    = {Tue, 14 May 2019 10:00:35 +0200 biburl       = {https://dblp.org/rec/conf/ifl/Choppella03.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Alina Bibireata and Sandhya Krishnan and Gerald Baumgartner and Daniel Cociorva and Chi{-}Chung Lam and. "Memory-Constrained Data Locality Optimization for Tensor Contractions". In Unknown journal, pp. 93--108, 2003. <a href="https://doi.org/10.1007/978-3-540-24644-2\_7">DOI: 10.1007/978-3-540-24644-2\_7</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Madhusudhan Govindaraju and Aleksander Slominski and Venkatesh Choppella and Randall Bramley and Dennis Gannon editor       = {Jed Donnelley title        = {Requirements for and Evaluation of {RMI} Protocols for Scientific. "Untitled". In Unknown journal, pp. 61, 2000. <a href="https://doi.org/10.1109/SC.2000.10060">DOI: 10.1109/SC.2000.10060</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Bhaskar Bose and M. Esen Tuna and Venkatesh Choppella editor       = {Mandayam K. Srivas and Albert John Camilleri title        = {A Tutorial on Digital Design Derivation Using {DRS booktitle    = {Formal Methods in Computer-Aided Design, First International Conference, {FMCAD} '96, Palo Alto, California, USA, November 6-8, 1996, Proceedings series       = {Lecture Notes in Computer Science volume       = {1166 pages        = {270--274 publisher    = {Springer year         = {1996 url          = {https://doi.org/10.1007/BFb0031815 doi          = {10.1007/BFB0031815 timestamp    = {Tue, 14 May 2019 10:00:54 +0200 biburl       = {https://dblp.org/rec/conf/fmcad/BoseTC96.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Kamlesh Rath and Venkatesh Choppella and Steven D. Johnson title        = {Decomposition of Sequential Behavior Using Interface Specification and Complementation journal      = {{VLSI} Design volume       = {3 number       = {3-4 pages        = {347--358 year         = {1995 url          = {https://doi.org/10.1155/1995/74543 doi          = {10.1155/1995/74543 timestamp    = {Tue, 08 Nov 2022 00:00:00 +0100 biburl       = {https://dblp.org/rec/journals/vlsi/RathCJ95.bib bibsource    = {dblp computer science bibliography, https://dblp.org}. "Untitled". In Unknown journal, pp. Unknown pages, Unknown year. <a href="#">DOI: Unknown DOI</a>.</p>
+</li>
+#+END_EXPORT
+
+
+#+BEGIN_EXPORT html
+<li>
+  <p>Phillip G. Bradford and Venkatesh Choppella and Gregory J. E. Rawlins editor       = {Ricardo A. Baeza{-}Yates and. "Lower Bounds for the Matrix Chain Ordering Problem (Extended bstract)". In Unknown journal, pp. 112--130, 1995. <a href="https://doi.org/10.1007/3-540-59175-3\_85">DOI: 10.1007/3-540-59175-3\_85</a>.</p>
+</li>
+#+END_EXPORT
+
