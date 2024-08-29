@@ -4,7 +4,7 @@ body {
   margin-top: 1%;
   
   font-family: Verdana, sans-serif; 
-/*   font-size: 100%; */
+   font-size: 100%; 
   color: gray;
 }
 
@@ -195,8 +195,8 @@ div.announcements {
   margin-top: 50px;
   margin-bottom: 50px;
   width: 50%;
- /* background-color: Lavender; */
- background-image: linear-gradient(to right top, #e4e982, #e6db75, #e6cc6b, #e6be62, #e5af5b);
+  background-color: Lavender; 
+ /*background-image: linear-gradient(to right top, #e4e982, #e6db75, #e6cc6b, #e6be62, #e5af5b);*/
  padding: 20px;
  border-radius: 20px;
  box-shadow: 5px 10px 18px #888888;
@@ -237,10 +237,6 @@ img {
   margin: 10px;
   border-radius: 20px;
   /* height: 400px; */
-}
-
-div.main {
-  font-size: 1em;
 }
 
 div.main  h2 {

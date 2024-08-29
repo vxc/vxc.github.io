@@ -80,7 +80,7 @@ div.sections ol li a:hover { background: white; color: #FFCC33; }
 /* Announcements Panel */
 /* *********************************************************/
 div.announcements {
-  background-color: yellow;
+  background-color: cyan;
   margin-top  : 20em;
   font-size: 110% /*larger*/;
   font-weight: bold;
