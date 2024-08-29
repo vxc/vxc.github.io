@@ -25,11 +25,13 @@
 #+ATTR_HTML: :alt pic :title venkatesh :align right :width 40% :height 50% :border-radius 20px
 [[./images/vxc_new.png]]
 
-1. *Associate Professor* at IIIT Hyderabad.
+1. *Associate Professor* at the [[https://serc.iiit.ac.in/][Software Engineering
+   Research Centre]],   [[https://iiit.ac.in][IIIT Hyderabad]]
+
 2. *Associate Dean*, Division of Flexible Learning, IIIT Hyderabad.
 
-Administrative Assistant: *Sahiti Potnuru*
-=sahiti.potnuru@research.iiit.ac.in=
+Administrative Assistant: *Anushka Srikanth*
+=anushkasrikanth_at_gmail_dot_com=
 
 
 * Announcements
@@ -37,13 +39,13 @@ Administrative Assistant: *Sahiti Potnuru*
     :HTML_CONTAINER_CLASS: announcements
     :CUSTOM_ID:   announce
   :END:
-** Spring and Summer 2024:  BTech and MTech Student projects internships in Virtual Labs for Operating Systems
+ * Monsoon 2024:  Funded MS/CSD research position (in collaboration) with ABB Research
+   
+** COMMENT Monsoon 2024:  Student internship available Virtual Labs for Operating Systems
   :PROPERTIES:
     :HTML_CONTAINER_CLASS: announcement
     :CUSTOM_ID:   vlabs-announce
   :END:
-   - Please contact me if for projects in Virtual
-     Labs
   
    - For projects in S/W Engg., Programming Languages, and
      Virtual Labs, please visit [[./projects.org][this link]].

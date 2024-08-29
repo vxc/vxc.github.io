@@ -53,7 +53,24 @@
     structures with my student Arjun Sanjeev (currently at
     Google).
 
-    Some of my previous works in this domain consists of Concurrency control [cite:2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al;], Distributed Model Checking\cite{Singla-et-al-2016}, Real Time Systems\cite{Adimoolam-Choppella-2013}, Software and Systems Engineering\cite{2019-isec-chaudhuri-et-al, 2018-isec-banerjee-et-al,2018-incose-natarajan-et-al}, Human Computer Interaction\cite{zade-choppella-ihci-2012,zade-et-al-chi-2014}, Workflows \cite{dinesh-choppella-iceg-2010,Choppella-icdcit-2011,goel-choppella-t4e-2012,Goel-Choppella-icegov-2013}, Modeling of Web Services\cite{WSCL-2002}, Data Modeling\cite{choppella-sengupta-robertson-johnson-tr-2006,choppella-et-al-afm07} and Visual modeling\cite{Choppella-Pulijala-ModSym-2015} and Software Architectures\cite{brahmajosyula-choppella-wambse-2011,brahmajosyula-choppella-journal-2011}. Formal Methods for VLSI\cite{Rath-Choppella-Johnson-1995,Bose-Tuna-Choppella-FMCAD-1996}
+    Some of my previous works in this domain consists of
+    Concurrency control
+    [cite:2018-arxiv-choppella-et-al,2018-afmss-sanjeev-et-al;],
+    Distributed Model Checking\cite{Singla-et-al-2016}, Real
+    Time Systems\cite{Adimoolam-Choppella-2013}, Software
+    and Systems Engineering\cite{2019-isec-chaudhuri-et-al,
+    2018-isec-banerjee-et-al,2018-incose-natarajan-et-al},
+    Human Computer
+    Interaction\cite{zade-choppella-ihci-2012,zade-et-al-chi-2014},
+    Workflows
+    \cite{dinesh-choppella-iceg-2010,Choppella-icdcit-2011,goel-choppella-t4e-2012,Goel-Choppella-icegov-2013},
+    Modeling of Web Services\cite{WSCL-2002}, Data
+    Modeling\cite{choppella-sengupta-robertson-johnson-tr-2006,choppella-et-al-afm07}
+    and Visual modeling\cite{Choppella-Pulijala-ModSym-2015}
+    and Software
+    Architectures\cite{brahmajosyula-choppella-wambse-2011,brahmajosyula-choppella-journal-2011}. Formal
+    Methods for
+    VLSI\cite{Rath-Choppella-Johnson-1995,Bose-Tuna-Choppella-FMCAD-1996}
 
   - Computing Education ::  My work is driven by the need to
     develop a pedagogy of computing rooted in formal methods

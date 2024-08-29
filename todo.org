@@ -1,0 +1,9 @@
+1. Fix List of courses taught as a semester wise table (Rishabh)
+
+2. Populate Projects page (venkatesh)
+
+3. Selected publications (recent plus most cited, plus a few
+   journals).  LInk to Google Scholar and DBLP
+
+
+   
