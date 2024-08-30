@@ -69,7 +69,7 @@
 	    | 2004 Spring                   | IIITM-K    | Interpreters and Compilers, Adv. Web Technologies  |
 	    | 2003 Winter                   | IIITM-K    | Web Technologies                            |
 	    | 2002 Monsoon                  | IIITH      | Principles of Programming Languages         |
-	    +-------------------------------+------------+---------------------------------------------+
+	    |-------------------------------+------------+---------------------------------------------|
 
 	
 
