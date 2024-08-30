@@ -41,7 +41,7 @@
     - Computation and Programming (eMasters)
 
 	    +-------------------------------+------------+---------------------------------------------+
-	    | Term                          | Institution| Course                                      |
+	    | Term                            Institution  Course                                      |
 	    +-------------------------------+------------+---------------------------------------------+
 	    | 2024 Summer                   | eMasters   | Principles of Programming                   |
 	    | 2024 Monsoon                  | IIITH      | Principles of Programming Languages         |
