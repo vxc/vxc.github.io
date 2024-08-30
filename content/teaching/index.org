@@ -40,15 +40,37 @@
 * Teaching
     - Computation and Programming (eMasters)
 
-	  |--------------+----------+-------------------------------------|
-	  |--------------+----------+-------------------------------------|
-	  | 2024 Summer  | eMasters | Principles of Programming           |
-	  | 2024 Monsoon | IIITH    | Principles of Programming Languages |
-	  | 2024 Spring  | IIITH    | Compilers                           |
-	  | 2023 Monsoon | IIITH    | Principles of Programming Languages |
-	  | 2023 Spring  | IIITH    | Compilers                           |
-	  |              |          |                                     |
-	  |--------------+----------+-------------------------------------|
+	    +-------------------------------+------------+---------------------------------------------+
+	    | Term                          | Institution| Course                                      |
+	    +-------------------------------+------------+---------------------------------------------+
+	    | 2024 Summer                   | eMasters   | Principles of Programming                   |
+	    | 2024 Monsoon                  | IIITH      | Principles of Programming Languages         |
+	    | 2024 Spring                   | IIITH      | Compilers, Software Foundations             |
+	    | 2023 Monsoon                  | IIITH      | Principles of Programming Languages         |
+	    | 2023 Spring                   | IIITH      | Compilers, Software Foundations             |
+	    | 2022 Monsoon                  | IIITH      | Principles of Programming Languages         |
+	    | 2022 Spring                   | IIITH      | Software Foundations                        |
+	    | 2020 Spring                   | IIITH      | Program Verification                        |
+	    | 2019 Spring                   | IIITH      | Program Verification                        |
+	    | 2018 Monsoon                  | IIITH      | Principles of Programming Languages, Adv. Problem Solving |
+	    | 2017 Spring                   | IIITH      | IT Workshop 2                               |
+	    | 2016 Spring                   | IIITH      | Software Foundations                        |
+	    | 2015 Monsoon                  | IIITH      | Computer Problem Solving                    |
+	    | 2015 Spring                   | IIITH      | Software Foundations                        |
+	    | 2014 Spring                   | IIITH      | Semantics of Programming Languages          |
+	    | 2013 Spring                   | IIITH      | Semantics of Programming Languages          |
+	    | 2012 Spring                   | IIITH      | Topics in Programming Languages             |
+	    | 2011 Spring                   | IIITH      | IT Workshop 2                               |
+	    | 2010 Spring                   | IIITH      | IT Workshop 2                               |
+	    | 2009 Fall                     | IIIT Bangalore | Programming Application Software        |
+	    | 2009 Monsoon                  | IIITH      | Principles of Programming Languages         |
+	    | 2008 Fall                     | IIITM-K    | Web Technologies                            |
+	    | 2007 Fall                     | IIITM-K    | Web Technologies                            |
+	    | 2006 Fall                     | IIITM-K    | Web Technologies                            |
+	    | 2004 Spring                   | IIITM-K    | Interpreters and Compilers, Adv. Web Technologies  |
+	    | 2003 Winter                   | IIITM-K    | Web Technologies                            |
+	    | 2002 Monsoon                  | IIITH      | Principles of Programming Languages         |
+	    +-------------------------------+------------+---------------------------------------------+
 
 	
 
