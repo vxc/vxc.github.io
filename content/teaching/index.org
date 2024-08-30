@@ -40,8 +40,8 @@
 * Teaching
     - Computation and Programming (eMasters)
 
-	 
-	    +-------------------------------+------------+---------------------------------------------+
+	    |-------------------------------+------------+---------------------------------------------|
+	    |-------------------------------+------------+---------------------------------------------|
 	    | 2024 Summer                   | eMasters   | Principles of Programming                   |
 	    | 2024 Monsoon                  | IIITH      | Principles of Programming Languages         |
 	    | 2024 Spring                   | IIITH      | Compilers, Software Foundations             |
