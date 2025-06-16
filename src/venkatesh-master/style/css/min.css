@@ -1,0 +1,101 @@
+body { 
+   overflow: hidden;
+   height: 100%;
+   max-height: 100%;
+   margin-left: 0%; 
+   margin-right: 20%; 
+   margin-top: 1%;
+   font-family: Verdana, sans-serif; 
+   font-size: 100%;
+   color: gray;
+}
+
+/* colors */
+h1, h2, h3, h4 { color: #006600; margin-bottom: 1em;}  /* green */
+a:link {text-decoration: none; color: olive; } 
+a:visited {text-decoration: none; color: olive;} 
+a:hover { color: #FFCC33; font-weight: bold}
+
+div.title {
+  margin-bottom: 0em;
+}
+
+div.menu {
+   position: fixed;
+   overflow: hidden;  /*Disable scrollbars. Set to "scroll"*/
+		      /*to enable*/
+   top: 0;
+   bottom: 0;
+   left: 0;
+
+   /* float: left; */
+   width: 20em;
+   height: 100%;
+   color: #CCC000;
+}
+
+
+/* Hide the heading */
+div.menu  h2 {
+  visibility: hidden;
+}
+
+div.menu li {
+  margin-bottom: 1em;
+  list-style-type:  none;
+  position: relative; 
+  margin-left: 1em; 
+  padding: 0.5em;
+}
+
+
+/* 
+-------
+ Main 
+-------
+*/
+
+/*
+div.main {
+  position: fixed; 
+  overflow: auto; 
+  top: 10em;
+  left: 20%; 
+  right: 0;
+  bottom: 0;
+} */
+
+div.main {
+  position: absolute;
+  overflow: auto; 
+  top: 5em;
+  left: 20%; /* equals width of menu or more */
+  right: 0;
+  bottom: 0;
+}
+
+div.main  h2 {
+  visibility: hidden;
+}
+
+
+/* Interests
+   ---------
+*/
+
+dt {
+   color: navy;
+}
+
+dd {
+     margin-left: 2em;
+     margin-bottom: 2em;
+}
+
+p.creator {
+  visibility: hidden;
+}
+
+#postamble {
+  visibility: hidden;
+}

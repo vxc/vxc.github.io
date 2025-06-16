@@ -1,6 +1,25 @@
 # vxc.github.io
 Venkatesh Home Pages
 
+# TODOs
+
+- [x] Generate bib pdf
+- [x] ~Add an embedding page under biography~ added bibliography directly using citations.js
+- [ ] Github actions for deployment
+- [x] Contact details update
+- [x] Spell checks
+- [x] Poem page and link from footer
+
+
+Other QoL improvements
+- [ ] remove section if no content
+- [ ] use `hr` and others for spacing
+- [ ] design improvements
+
+
+
+
+
 ## Getting Started
 
 Instructions for getting started.

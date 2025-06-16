@@ -7,6 +7,9 @@ PKG_INSTALL_CMD = bun install
 DEV_SERVER_CMD = bun run dev
 BUILD_CMD = bun run build
 
+# testing port
+PORT = 8080
+
 # Targets
 .PHONY: all install-bun dev build
 
@@ -18,6 +21,9 @@ install-bun:
     else \
         echo "bun is already installed"; \
     fi
+    
+demo:
+	cd dist && 	python3 -m http.server $(PORT)
 
 dev:
 	$(PKG_INSTALL_CMD)

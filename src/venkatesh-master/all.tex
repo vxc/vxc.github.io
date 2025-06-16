@@ -1,0 +1,175 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\hypersetup{pdftitle={Venkatesh Choppella Bibliography},colorlinks=true,urlcolor=blue,citecolor=green}
+\usepackage[english]{babel}
+%\usepackage[maxbibnames=20,style=numeric,sorting=ydnt,hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true]{biblatex}
+
+
+\usepackage[maxbibnames=20,style=numeric,sorting=dymdtn,hyperref=true,backref=true,maxcitenames=3,url=true,backend=biber,natbib=true]{biblatex}
+
+
+\newcommand{\recent}[2]{
+\defbibcheck{checkrecent}{
+  \iffieldint{year}
+             {\ifnumless{\thefield{year}}{#1}
+               {\skipentry}
+               {\ifnumgreater{\thefield{year}}{#2}
+                 {\skipentry} {}}} {\skipentry}}}
+  
+\input{sorting-scheme.tex}
+
+
+
+%\addbibresource[label=wip]{wip.bib}
+\addbibresource[label=submitted]{submitted.bib}
+\addbibresource[label=accepted]{accepted.bib}
+%\addbibresource[label=rejected]{rejected.bib}
+\addbibresource[label=posters]{posters.bib}
+\addbibresource[label=journal]{journal.bib}
+\addbibresource[label=conf-papers]{conf-papers.bib}
+\addbibresource[label=unpublished]{unpublished.bib}
+\addbibresource[label=talks]{talks.bib}
+\AtDataInput{\csnumgdef{entrycount:\therefsection}{\csuse{entrycount:\therefsection}+1}}
+\DeclareFieldFormat{labelnumber}{\mkbibdesc{#1}}
+\newrobustcmd*{\mkbibdesc}[1]{\number\numexpr\csuse{entrycount:\therefsection}+1-#1\relax}
+
+\author{Venkatesh Choppella}
+\date{\today}
+\title{Venkatesh Choppella Bibliography}
+\hypersetup{
+ pdfauthor={Venkatesh Choppella},
+ pdftitle={Venkatesh Choppella Bibliography},
+ pdfkeywords={},
+ pdfsubject={},
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+% %%%%%%%% wip %%%%%%%%%%%%%%
+% \begin{refsection}[wip]
+% \nocite{*}
+% \printbibliography[keyword={wip}, title={Work in Progress}]
+% \end{refsection}
+
+%%%%%%%% submitted %%%%%%%%%%%%%%
+%% \begin{refsection}[submitted]
+%% \nocite{*}
+%% \printbibliography[keyword={submitted}, title={Submitted for publication}]
+%% \end{refsection}
+
+%%%%%%%% accepted %%%%%%%%%%%%%%
+
+\section{Accepted for Publication}
+\begin{refsection}[accepted]
+\nocite{*}
+\printbibliography[keyword={accepted}, title={}
+%title={Accepted for publication}
+]
+\end{refsection}
+
+%%%%%%%% rejected %%%%%%%%%%%%%%
+% \begin{refsection}[rejected]
+% \nocite{*}
+% \printbibliography[keyword={rejected}, title={Rejected for publication}]
+% \end{refsection}
+
+%%%%%%%% posters %%%%%%%%%%%%%%
+\section{Posters at Conferences}
+\begin{refsection}[posters]
+\nocite{*}
+\printbibliography[keyword={poster}, title={}
+%title={Refereed Posters}
+]
+\end{refsection}
+%%
+\end{document}
+%%%%%%%% conference papers %%%%%%%%%%%%%%
+\section{Peer reviewed  Conference and Workshop Papers}
+\begin{refsection}[conf-papers]
+\nocite{*}
+\printbibliography[keyword={conf-paper}, title={}
+%title={Published Refereed Conference and Workshop papers}
+]
+\end{refsection}
+%%
+%%%%%%%% journal papers %%%%%%%%%%%%%%
+\section{Journal Articles}
+\begin{refsection}[journal]
+  \nocite{*}
+  \printbibliography[keyword={journal-article}, title={}
+%  title={Published Refereed Journal articles}
+  ]
+\end{refsection}
+%%
+
+%%%%%%%% technical reports %%%%%%%%%%%%%%
+\section{Technical Reports}
+\begin{refsection}[tr]
+  \nocite{*}
+  \printbibliography[keyword={tech-report}, title={}
+  % title={Technical reports}
+  ]  
+\end{refsection}
+%%
+%%%%%%%% theses %%%%%%%%%%%%%%
+\section{Theses}
+\begin{refsection}[thesis]
+  \nocite{*}
+  \printbibliography[keyword={thesis}, title={Theses}]  
+\end{refsection}
+%%
+
+
+%%%%%%%% unpublished %%%%%%%%%%%%%%
+\section{Unpublished reports}
+\begin{refsection}[unpublished]
+  \nocite{*}
+  \printbibliography[keyword={unpublished}, title={}
+%  title={Unpublished manuscripts}
+  ]  
+\end{refsection}
+%%
+
+%%%%%%%% Patents %%%%%%%%%%%%%%
+\section{Patents}
+\begin{refsection}[patents]
+  \nocite{*}
+  \printbibliography[keyword={patent}, title={}
+%  title={Patents}
+  ]  
+\end{refsection}
+%%
+
+%%%%%%%% Talks, Workshops and Short courses %%%%%%%%%%%%%%
+\section{Selected Talks, Workshops and Short Courses}
+\begin{refsection}[talks]
+\nocite{*}
+\printbibliography[keyword={talk}, title={}
+%title={Selected Talks, Workshops and Panel Discussions}
+]
+\end{refsection}
+
+
+
+% %%%%%%%% 2020 %%%%%%%%%%%%%%
+% \begin{refsection}[all]
+%   \nocite{*}
+%   \recent{2015}{2020} % defines checkrecent
+% \nocite{*}
+% \printbibliography[check={checkrecent}, title={Ongoing and past work (2020--2015)}]
+% \end{refsection}
+\end{document}

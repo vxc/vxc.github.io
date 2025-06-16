@@ -1,0 +1,57 @@
+% Created 2018-09-28 Fri 12:37
+% Intended LaTeX compiler: pdflatex
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{longtable}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{amssymb}
+\usepackage{capt-of}
+\usepackage{hyperref}
+\usepackage[english]{babel}
+\author{Venkatesh Choppella}
+\date{\today}
+\title{Venkatesh Choppella Bibliography}
+\hypersetup{
+ pdfauthor={Venkatesh Choppella},
+ pdftitle={Venkatesh Choppella Bibliography},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={Emacs 25.3.2 (Org mode 9.1.9)}, 
+ pdflang={English}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+
+%\input{sorting-scheme.tex}
+% \AtDataInput{\csnumgdef{entrycount:\therefsection}{\csuse{entrycount:\therefsection}+1}}
+% \DeclareFieldFormat{labelnumber}{\mkbibdesc{#1}}
+% \newrobustcmd*{\mkbibdesc}[1]{\number\numexpr\csuse{entrycount:\therefsection}+1-#1\relax}
+
+
+
+\begin{refsection}[ref]
+\nocite{*}
+%\printbibliography[keyword={wip}, title={Work in Progress}]
+\printbibliography[keyword={conf-paper}, title={Refereed Conference and Workshop papers}]
+\printbibliography[keyword={journal-article}, title={Refereed Journal articles}]
+\printbibliography[keyword={tech-report}, title={Technical reports}]
+\printbibliography[keyword={thesis}, title={Theses}]
+\printbibliography[keyword={unpublished}, title={Unpublished manuscripts}]
+\printbibliography[keyword={patent}, title={Patents}]
+\end{refsection}
+
+\begin{refsection}[talks]
+\nocite{*}
+\printbibliography[keyword={talk}, title={Talks}]
+\end{refsection}
+\end{document}

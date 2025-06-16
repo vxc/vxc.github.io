@@ -1,0 +1,344 @@
+---
+import { GLOBAL } from "../../lib/variables";
+import Layout from "../../layouts/Layout.astro";
+import Section from "../../components/common/Section.astro";
+import { Cite } from "@citation-js/core";
+import "@citation-js/plugin-bibtex";
+import fs from "fs";
+import path from "path";
+
+// Configuration for better BibLaTeX parsing
+import { plugins } from "@citation-js/core";
+const config = plugins.config.get("@bibtex");
+config.parse.strict = false;
+config.parse.sentenceCase = "never";
+config.format.useIdAsLabel = true;
+
+import { bibSections } from "@/lib/variables";
+
+async function loadBibFile(filename) {
+    try {
+        const bibPath = path.join(
+            process.cwd(),
+            "src",
+            "venkatesh-master",
+            filename,
+        );
+
+        console.log(`Attempting to read: ${bibPath}`);
+
+        if (!fs.existsSync(bibPath)) {
+            console.error(`File not found: ${bibPath}`);
+            return {
+                entries: [],
+                error: `File ${filename} not found at ${bibPath}`,
+            };
+        }
+
+        const bibContent = fs.readFileSync(bibPath, "utf-8");
+        if (!bibContent.trim()) {
+            return { entries: [], error: null };
+        }
+
+        const cite = new Cite(bibContent);
+        const entries = cite.data;
+
+        // Sort by year (newest first)
+        entries.sort((a, b) => {
+            const yearA = a.issued?.["date-parts"]?.[0]?.[0] || 0;
+            const yearB = b.issued?.["date-parts"]?.[0]?.[0] || 0;
+            return yearB - yearA;
+        });
+
+        console.log(
+            `Successfully loaded ${entries.length} entries from ${filename}`,
+        );
+        return { entries, error: null };
+    } catch (error) {
+        console.error(`Error loading ${filename}:`, error.message);
+        return { entries: [], error: error.message };
+    }
+}
+
+// Load all bibliography sections
+const bibliographyData = await Promise.all(
+    bibSections.map(async (section) => ({
+        ...section,
+        ...(await loadBibFile(section.file)),
+    })),
+);
+
+// Helper functions
+function formatAuthors(authors) {
+    if (!authors || authors.length === 0) return "Unknown Author";
+
+    const authorNames = authors.map((author) => {
+        if (author.family && author.given) {
+            return `${author.given} ${author.family}`;
+        } else if (author.literal) {
+            return author.literal;
+        }
+        return author.family || author.given || "Unknown";
+    });
+
+    if (authorNames.length === 1) return authorNames[0];
+    if (authorNames.length === 2)
+        return `${authorNames[0]} and ${authorNames[1]}`;
+    return `${authorNames.slice(0, -1).join(", ")}, and ${authorNames[authorNames.length - 1]}`;
+}
+
+function formatDate(dateInfo) {
+    if (!dateInfo?.["date-parts"]?.[0]) return "";
+    const [year] = dateInfo["date-parts"][0];
+    return year ? year.toString() : "";
+}
+
+function getEntryTypeDisplay(type) {
+    const typeMap = {
+        "article-journal": "Journal",
+        "paper-conference": "Conference",
+        book: "Book",
+        chapter: "Chapter",
+        thesis: "Thesis",
+        report: "Report",
+        speech: "Talk",
+        patent: "Patent",
+    };
+    return typeMap[type] || type?.replace("-", " ") || "";
+}
+---
+
+<Layout>
+    <Fragment slot="head">
+        <title>{GLOBAL.publicationsName} • {GLOBAL.username}</title>
+        <meta
+            name="description"
+            content={`Complete bibliography and publications list of ${GLOBAL.username}`}
+        />
+        <meta
+            property="og:title"
+            content={`${GLOBAL.publicationsName} • ${GLOBAL.username}`}
+        />
+        <meta
+            property="og:description"
+            content={`Academic publications and research work by ${GLOBAL.username}`}
+        />
+        <meta
+            property="og:image"
+            content={`${GLOBAL.rootUrl}/${GLOBAL.profileImage}`}
+        />
+        <meta property="og:url" content={`${GLOBAL.rootUrl}/bibliography`} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+            name="twitter:title"
+            content={`${GLOBAL.publicationsName} • ${GLOBAL.username}`}
+        />
+        <meta
+            name="twitter:description"
+            content={`Academic publications by ${GLOBAL.username}`}
+        />
+        <meta
+            name="twitter:image"
+            content={`${GLOBAL.rootUrl}/${GLOBAL.profileImage}`}
+        />
+        <meta http-equiv="content-language" content="en" />
+        <meta name="language" content="English" />
+        <link rel="canonical" href={`${GLOBAL.rootUrl}/bibliography`} />
+    </Fragment>
+
+    <Section class="my-8">
+        <div class="flex items-center gap-4 pt-8 pb-8">
+            <h1 class="font-display text-3xl sm:text-4xl leading-loose">
+                {GLOBAL.publicationsName}
+            </h1>
+        </div>
+
+        <!-- Table of Contents -->
+        <div class="mb-8">
+            <h2 class="text-xl font-semibold mb-4">Contents</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+                {
+                    bibliographyData
+                        .filter((section) => section.entries.length > 0)
+                        .map((section) => (
+                            <a
+                                href={`#${section.title.toLowerCase().replace(/\s+/g, "-")}`}
+                                class="block p-3 border rounded-lg hover:cursor-pointer hover:shadow-lg transition-colors"
+                            >
+                                <div class="font-medium ">{section.title}</div>
+                                <div class="text-sm ">
+                                    {section.entries.length}{" "}
+                                    {section.entries.length === 1
+                                        ? "entry"
+                                        : "entries"}
+                                </div>
+                            </a>
+                        ))
+                }
+            </div>
+        </div>
+
+        <!-- Bibliography Sections -->
+        {
+            bibliographyData.map(
+                (section) =>
+                    section.entries.length > 0 && (
+                        <div
+                            class="mb-12"
+                            id={section.title
+                                .toLowerCase()
+                                .replace(/\s+/g, "-")}
+                        >
+                            <div class="border-b  mb-6">
+                                <h2 class="text-2xl font-bold  mb-2">
+                                    {section.title}
+                                </h2>
+                                <p class=" mb-4">{section.description}</p>
+                                <div class="text-sm  mb-4">
+                                    {section.entries.length}{" "}
+                                    {section.entries.length === 1
+                                        ? "entry"
+                                        : "entries"}
+                                </div>
+                            </div>
+
+                            <div class="space-y-6">
+                                {section.entries.map((entry, index) => (
+                                    <article class="border  rounded-lg p-6 hover:shadow-md transition-shadow ">
+                                        <div class="flex items-start justify-between mb-3">
+                                            <h3 class="text-lg font-semibold  leading-tight flex-1 mr-4">
+                                                {entry.URL ? (
+                                                    <a
+                                                        href={entry.URL}
+                                                        target="_blank"
+                                                        rel="noopener noreferrer"
+                                                        class="hover:text-blue-400 hover:underline"
+                                                    >
+                                                        {entry.title}
+                                                    </a>
+                                                ) : (
+                                                    entry.title
+                                                )}
+                                            </h3>
+                                            {formatDate(entry.issued) && (
+                                                <span class="text-sm font-medium  px-2 py-1 rounded">
+                                                    {formatDate(entry.issued)}
+                                                </span>
+                                            )}
+                                        </div>
+
+                                        <div class=" mb-3">
+                                            <strong>
+                                                {formatAuthors(entry.author)}
+                                            </strong>
+                                        </div>
+
+                                        <div class="text-sm  space-y-1">
+                                            {entry["container-title"] && (
+                                                <div>
+                                                    <em>
+                                                        {
+                                                            entry[
+                                                                "container-title"
+                                                            ]
+                                                        }
+                                                    </em>
+                                                    {entry.volume && (
+                                                        <span>
+                                                            , Vol.{" "}
+                                                            {entry.volume}
+                                                        </span>
+                                                    )}
+                                                    {entry.issue && (
+                                                        <span>
+                                                            , No. {entry.issue}
+                                                        </span>
+                                                    )}
+                                                    {entry.page && (
+                                                        <span>
+                                                            , pp. {entry.page}
+                                                        </span>
+                                                    )}
+                                                </div>
+                                            )}
+
+                                            {entry.publisher && (
+                                                <div>{entry.publisher}</div>
+                                            )}
+
+                                            {entry["publisher-place"] && (
+                                                <div>
+                                                    {entry["publisher-place"]}
+                                                </div>
+                                            )}
+                                        </div>
+
+                                        <div class="flex flex-wrap gap-4 mt-4 text-sm">
+                                            {entry.DOI && (
+                                                <a
+                                                    href={`https://doi.org/${entry.DOI}`}
+                                                    target="_blank"
+                                                    rel="noopener noreferrer"
+                                                    class="text-blue-400 hover:text-blue-400 hover:underline"
+                                                >
+                                                    DOI: {entry.DOI}
+                                                </a>
+                                            )}
+
+                                            {entry.ISBN && (
+                                                <span class="">
+                                                    ISBN: {entry.ISBN}
+                                                </span>
+                                            )}
+
+                                            {entry.ISSN && (
+                                                <span class="">
+                                                    ISSN: {entry.ISSN}
+                                                </span>
+                                            )}
+                                        </div>
+
+                                        {entry.abstract && (
+                                            <details class="mt-4">
+                                                <summary class="text-blue-400 font-medium hover:cursor-pointer">
+                                                    Abstract
+                                                </summary>
+                                                <p class="mt-2  text-sm leading-relaxed">
+                                                    {entry.abstract}
+                                                </p>
+                                            </details>
+                                        )}
+                                    </article>
+                                ))}
+                            </div>
+                        </div>
+                    ),
+            )
+        }
+    </Section>
+</Layout>
+
+<style>
+    html {
+        scroll-behavior: smooth;
+        /* for anchor link smooth scroll */
+    }
+
+    article:hover {
+        transform: translateY(-1px);
+    }
+
+    details summary::-webkit-details-marker {
+        display: none;
+    }
+
+    /* animations  */
+    details summary::before {
+        margin-right: 0.5rem;
+        transition: transform 0.2s;
+    }
+
+    details[open] summary::before {
+        transform: rotate(90deg);
+    }
+</style>

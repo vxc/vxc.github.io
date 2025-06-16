@@ -1,0 +1,48 @@
+/* See centering tricks at http://www.w3.org/Style/Examples/007/center#block  */
+
+#portraitframe {
+   margin-left : -5%;
+   margin-right : 1em;
+   margin-bottom : 2em;
+   float : left;
+   width : auto;
+   height: auto;
+ }
+
+/* #text-div { */
+
+/*    width : 5em; */
+/*    height: 5em; */
+
+/* /\*   border-style: solid;  *\/ */
+/*    border-width: thin; */
+/*    border-color: red; */
+
+/* /\*   display: table-cell; *\/ */
+/* /\*   vertical-align: middle; *\/ */
+/*  } */
+
+#load-photo {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+
+   width: 5em;
+   height: 2.5em;
+}
+
+
+img.picture {
+
+   display: block;
+   margin-left: 0; /* auto; */
+   margin-right:0; /* auto; */
+   height: 12em; 
+}
+
+ul.details>li {
+ list-style : none;
+ margin-bottom: 0.3em;
+}
+
+

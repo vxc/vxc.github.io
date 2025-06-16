@@ -1,3 +1,134 @@
 ---
 import { courseTypes, courseData, getCourseType } from "@/lib/teaching";
+import { GLOBAL } from "../../lib/variables";
+import Layout from "../../layouts/Layout.astro";
+import Section from "../../components/common/Section.astro";
+
+// Group courses by title and collect years/details
+const groupedCourses = courseData.reduce((acc, yearBlock) => {
+    yearBlock.courses.forEach(course => {
+        const key = course.title;
+        if (!acc[key]) {
+            acc[key] = {
+                title: course.title,
+                type: course.type || getCourseType(course.title),
+                description: course.description,
+                offerings: []
+            };
+        }
+
+        acc[key].offerings.push({
+            year: yearBlock.year,
+            season: course.season,
+            institution: course.institution,
+            description: course.description // In case descriptions vary by offering
+        });
+    });
+
+    return acc;
+}, {});
+
+// Convert to array and sort by most recent offering
+const sortedCourses = Object.values(groupedCourses).sort((a, b) => {
+    const aLatestYear = Math.max(...a.offerings.map(o => parseInt(o.year)));
+    const bLatestYear = Math.max(...b.offerings.map(o => parseInt(o.year)));
+    return bLatestYear - aLatestYear;
+});
+
+// Sort offerings within each course by year (most recent first)
+sortedCourses.forEach(course => {
+    course.offerings.sort((a, b) => parseInt(b.year) - parseInt(a.year));
+});
 ---
+
+<Layout>
+    <Fragment slot="head">
+        <title>Teaching • Courses by Year</title>
+        <meta
+            name="description"
+            content="A chronological list of teaching experience including workshops and university courses."
+        />
+        <meta property="og:title" content="Teaching • Courses by Year" />
+        <meta
+            property="og:description"
+            content="A chronological list of teaching experience including workshops and university courses."
+        />
+        <meta property="og:image" content="/default-og.png" />
+        <meta property="og:url" content="/teaching" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Teaching • Courses by Year" />
+        <meta
+            name="twitter:description"
+            content="A chronological list of teaching experience including workshops and university courses."
+        />
+        <meta name="twitter:image" content="/default-og.png" />
+        <meta http-equiv="content-language" content="en" />
+        <meta name="language" content="English" />
+        <link rel="canonical" href="/teaching" />
+    </Fragment>
+
+    <Section class="my-8">
+        <div class="pt-8 pb-4">
+            <h1 class="font-display text-3xl sm:text-4xl leading-loose">
+                Teaching
+            </h1>
+            <p class="text-muted-foreground text-lg">
+                Courses and workshops organized by subject.
+            </p>
+        </div>
+
+        <div class="grid gap-6 lg:grid-cols-2">
+            {
+                sortedCourses.map((course) => {
+                    const courseStyle = courseTypes[course.type] || courseTypes.other;
+                    const Icon = courseStyle.icon;
+
+                    return (
+                        <div
+                            class="rounded-2xl shadow p-6 border hover:shadow-md transition bg-card"
+                            key={course.title}
+                        >
+                            <div class="flex items-start justify-between mb-3">
+                                <div
+                                    class={`inline-flex items-center gap-2 px-3 py-1 rounded-full text-sm font-medium ${courseStyle.color}`}
+                                >
+                                    <Icon class="w-4 h-4" />
+                                    {course.type.charAt(0).toUpperCase() + course.type.slice(1)}
+                                </div>
+                            </div>
+
+                            <h3 class="text-xl font-semibold mb-2">
+                                {course.title}
+                            </h3>
+
+                            {course.description && (
+                                <p class="text-muted-foreground mb-4 italic">
+                                    {course.description}
+                                </p>
+                            )}
+
+                            <div class="space-y-2">
+                                <h4 class="text-sm font-medium text-muted-foreground tracking-wide">
+                                    {course.offerings[0]?.institution || ""}
+                                </h4>
+                                <div class="text-sm">
+                                    <div class="flex flex-wrap gap-1">
+                                        {course.offerings.map((offering, index) => (
+                                            <span
+                                                class="bg-muted px-2 py-0.5 rounded text-xs font-medium"
+                                                key={`${offering.year}-${offering.season}-${index}`}
+                                            >
+                                                {offering.year}{offering.season ? ` ${offering.season}` : ''}
+                                            </span>
+                                        ))}
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    );
+                })
+            }
+        </div>
+    </Section>
+</Layout>

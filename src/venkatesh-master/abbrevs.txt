@@ -1,0 +1,8 @@
+conf-paper: conference paper
+cs-ed: computer science education
+dsl:  domain-specific languages
+ed-tech: educational technology
+pedagogy: pedagogy
+sw-engg: software engineering
+ws-paper:  workshop paper
+
